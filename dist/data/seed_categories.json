@@ -1,0 +1,446 @@
+[
+  {
+    "id": "cat-personajes",
+    "name": "Personajes",
+    "slug": "personajes",
+    "description": "Héroes, sabios, guerreros y seres místicas",
+    "color": "#70b8c8",
+    "icon": "Users",
+    "parentId": null,
+    "parentSlug": null
+  },
+  {
+    "id": "cat-lugares",
+    "name": "Lugares",
+    "slug": "lugares",
+    "description": "Ciudades medievales, mazmorras y reinos antiguos",
+    "color": "#c86f81",
+    "icon": "MapPin",
+    "parentId": null,
+    "parentSlug": null
+  },
+  {
+    "id": "cat-eventos",
+    "name": "Eventos",
+    "slug": "eventos",
+    "description": "Eclipses, batallas históricas y hitos del destino",
+    "color": "#c86e6e",
+    "icon": "Calendar",
+    "parentId": null,
+    "parentSlug": null
+  },
+  {
+    "id": "cat-dioses",
+    "name": "Dioses",
+    "slug": "dioses",
+    "description": "Deidades cósmicas y fuerzas divinas del universo",
+    "color": "#a9f9d6",
+    "icon": "Sparkles",
+    "parentId": null,
+    "parentSlug": null
+  },
+  {
+    "id": "cat-dragones",
+    "name": "Dragones",
+    "slug": "dragones",
+    "description": "Dragones legendarios de inmenso poder elemental",
+    "color": "#c8856e",
+    "icon": "Flame",
+    "parentId": null,
+    "parentSlug": null
+  },
+  {
+    "id": "cat-organizaciones",
+    "name": "Organizaciones",
+    "slug": "organizaciones",
+    "description": "Gremios celestiales, imperios y sectas secretas",
+    "color": "#9e6ec8",
+    "icon": "Shield",
+    "parentId": null,
+    "parentSlug": null
+  },
+  {
+    "id": "cat-familias",
+    "name": "Familias",
+    "slug": "familias",
+    "description": "Líneas de sangre real y dinastías eternas",
+    "color": "#6ec8c0",
+    "icon": "Heart",
+    "parentId": null,
+    "parentSlug": null
+  },
+  {
+    "id": "cat-objetos",
+    "name": "Objetos",
+    "slug": "objetos",
+    "description": "Artefactos rúnicos, armas legendarias y joyas sagradas",
+    "color": "#6ec88a",
+    "icon": "Gem",
+    "parentId": null,
+    "parentSlug": null
+  },
+  {
+    "name": "Planos",
+    "icon": "Map",
+    "description": "Categoría mística personalizada",
+    "color": "#798681",
+    "slug": "planos",
+    "id": "6a21b20b721db0dddbdc7dca",
+    "created_date": "2026-06-04T17:12:43.197000",
+    "updated_date": "2026-06-04T17:12:43.197000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "name": "Gobernantes de planos",
+    "slug": "gobernantes-de-planos",
+    "description": "Criaturas o seres que gobiernan un plano o semiplano entero, no vale que gobiernen un reino dentro de uno",
+    "color": "#95ff82",
+    "icon": "Crown",
+    "id": "cat-1783501330906",
+    "parentId": "6a21b20b721db0dddbdc7dca",
+    "parentSlug": "planos"
+  },
+  {
+    "name": "Magias",
+    "slug": "magias",
+    "description": "Tipos de magia del cosmos",
+    "color": "#203a57",
+    "icon": "Sparkles",
+    "id": "cat-1783711542282"
+  },
+  {
+    "name": "Clases",
+    "slug": "clases",
+    "description": "Clases de personajes y criaturas",
+    "color": "#827ab8",
+    "icon": "BookOpen",
+    "id": "cat-1787672097323"
+  },
+  {
+    "name": "Mascotas",
+    "slug": "mascotas",
+    "description": "Mascotas de personajes y de jugadores",
+    "color": "#9f5e14",
+    "icon": "PawPrint",
+    "id": "cat-1789848950098"
+  },
+  {
+    "name": "Religiones",
+    "slug": "religiones",
+    "description": "Fés principales",
+    "color": "#d8b87d",
+    "icon": "Coins",
+    "id": "cat-1790333018734"
+  },
+  {
+    "name": "Primordiales",
+    "slug": "primordiales",
+    "description": "los distintos primordiales, seres nacidos de la magia que pueblan Ávalon",
+    "color": "#7cc0d0",
+    "icon": "Users",
+    "id": "cat-1790847010090",
+    "parentId": "cat-personajes",
+    "parentSlug": "personajes"
+  },
+  {
+    "name": "Ascendidos",
+    "slug": "ascendidos",
+    "description": "Mortales, ya sean humanoides, animales, o incluso criaturas como dragones que ascendieron a un nivel quasidivino",
+    "color": "#66a7b7",
+    "icon": "Users",
+    "id": "cat-1790847168073",
+    "parentId": "cat-personajes",
+    "parentSlug": "personajes"
+  },
+  {
+    "name": "Mazmorras",
+    "slug": "mazmorras",
+    "description": "mazmorras y lugares que actuan como tales",
+    "color": "#dd8899",
+    "icon": "MapPin",
+    "parentId": "cat-lugares",
+    "parentSlug": "lugares",
+    "id": "cat-1790870113552"
+  },
+  {
+    "name": "Reinos",
+    "slug": "reinos",
+    "description": "Reinos distribuidos a lo largo del Cosmos",
+    "color": "#a64e60",
+    "icon": "MapPin",
+    "parentId": "cat-lugares",
+    "parentSlug": "lugares",
+    "id": "cat-1790870255720"
+  },
+  {
+    "name": "Portadores de Marca",
+    "slug": "portadores-de-marca",
+    "description": "Portan una o varias marcas del reloj astral",
+    "color": "#4b99aa",
+    "icon": "Users",
+    "parentId": "cat-personajes",
+    "parentSlug": "personajes",
+    "id": "cat-1790873352902"
+  },
+  {
+    "name": "Arcanos",
+    "slug": "arcanos",
+    "description": "Subcategoría de Primordiales",
+    "color": "#17798c",
+    "icon": "Infinity",
+    "parentId": "cat-1790847010090",
+    "parentSlug": "primordiales",
+    "id": "cat-1790873440747"
+  },
+  {
+    "name": "Profanos",
+    "slug": "profanos",
+    "description": "Subcategoría de Primordiales",
+    "color": "#58777e",
+    "icon": "Infinity",
+    "parentId": "cat-1790847010090",
+    "parentSlug": "primordiales",
+    "id": "cat-1790873459892"
+  },
+  {
+    "name": "Divinos",
+    "slug": "divinos",
+    "description": "Subcategoría de Primordiales",
+    "color": "#00d0ff",
+    "icon": "Infinity",
+    "parentId": "cat-1790847010090",
+    "parentSlug": "primordiales",
+    "id": "cat-1790873471728"
+  },
+  {
+    "name": "Naturales",
+    "slug": "naturales",
+    "description": "Subcategoría de Primordiales",
+    "color": "#427985",
+    "icon": "Infinity",
+    "parentId": "cat-1790847010090",
+    "parentSlug": "primordiales",
+    "id": "cat-1790873485380"
+  },
+  {
+    "name": "Antiguos",
+    "slug": "antiguos",
+    "description": "Seres muy Antiguos y Poderosos de Kaliria",
+    "color": "#144f5d",
+    "icon": "Users",
+    "parentId": "cat-personajes",
+    "parentSlug": "personajes",
+    "id": "cat-1790874212602"
+  },
+  {
+    "id": "cat-jugadores",
+    "name": "Jugadores",
+    "slug": "jugadores",
+    "description": "personajes de jugadores",
+    "color": "#30bad9",
+    "icon": "Users",
+    "parentId": "cat-personajes",
+    "parentSlug": "personajes"
+  },
+  {
+    "name": "Cromáticos",
+    "slug": "cromaticos",
+    "description": "Subcategoría de Dragones",
+    "color": "#b76c52",
+    "icon": "Flame",
+    "parentId": "cat-dragones",
+    "parentSlug": "dragones",
+    "id": "cat-1790875789928"
+  },
+  {
+    "name": "Metálicos",
+    "slug": "metalicos",
+    "description": "Subcategoría de Dragones",
+    "color": "#9e3f1f",
+    "icon": "Flame",
+    "parentId": "cat-dragones",
+    "parentSlug": "dragones",
+    "id": "cat-1790875817632"
+  },
+  {
+    "name": "Gemáticos",
+    "slug": "gematicos",
+    "description": "Subcategoría de Dragones",
+    "color": "#ec5827",
+    "icon": "Flame",
+    "parentId": "cat-dragones",
+    "parentSlug": "dragones",
+    "id": "cat-1790875835074"
+  },
+  {
+    "name": "Bestias",
+    "slug": "bestias",
+    "description": "Subcategoría de Dragones",
+    "color": "#522414",
+    "icon": "Flame",
+    "parentId": "cat-dragones",
+    "parentSlug": "dragones",
+    "id": "cat-1790875883457"
+  },
+  {
+    "name": "Asentamientos",
+    "slug": "asentamientos",
+    "description": "Ciudades, pueblos y aldeas en las que vive o vivia la gente",
+    "color": "#c1445d",
+    "icon": "MapPin",
+    "parentId": "cat-lugares",
+    "parentSlug": "lugares",
+    "id": "cat-1790876489353"
+  },
+  {
+    "name": "Verdaderos",
+    "slug": "verdaderos",
+    "description": "Subcategoría de Dioses",
+    "color": "#44a282",
+    "icon": "Sparkles",
+    "parentId": "cat-dioses",
+    "parentSlug": "dioses",
+    "id": "cat-1790876767818"
+  },
+  {
+    "name": "Consejo Omega",
+    "slug": "consejo-omega",
+    "description": "Subcategoría de Dioses",
+    "color": "#93beab",
+    "icon": "Sparkles",
+    "parentId": "cat-dioses",
+    "parentSlug": "dioses",
+    "id": "cat-1790876800563"
+  },
+  {
+    "name": "Raciales",
+    "slug": "raciales",
+    "description": "Subcategoría de Dioses",
+    "color": "#86a296",
+    "icon": "Sparkles",
+    "parentId": "cat-dioses",
+    "parentSlug": "dioses",
+    "id": "cat-1790876836859"
+  },
+  {
+    "name": "Dominio",
+    "slug": "dominio",
+    "description": "Realidades que nos son planos, pero están fuera de cualquier otro plano",
+    "color": "#733541",
+    "icon": "MapPin",
+    "parentId": "cat-lugares",
+    "parentSlug": "lugares",
+    "id": "cat-1790876928155"
+  },
+  {
+    "name": "Extraplanares",
+    "slug": "extraplanares",
+    "description": "Subcategoría de Primordiales",
+    "color": "#7cc0d0",
+    "icon": "Infinity",
+    "parentId": "cat-1790847010090",
+    "parentSlug": "primordiales",
+    "id": "cat-1790879505537"
+  },
+  {
+    "name": "Salvajes",
+    "slug": "salvajes",
+    "description": "Subcategoría de Primordiales",
+    "color": "#7cc0d0",
+    "icon": "Infinity",
+    "parentId": "cat-1790847010090",
+    "parentSlug": "primordiales",
+    "id": "cat-1790879519225"
+  },
+  {
+    "name": "Arena",
+    "slug": "arena",
+    "description": "Subcategoría de Lugares",
+    "color": "#9b7d83",
+    "icon": "MapPin",
+    "parentId": "cat-lugares",
+    "parentSlug": "lugares",
+    "id": "cat-1790880265420"
+  },
+  {
+    "id": "cat-1790940652316",
+    "name": "Caldo de Dragón C1",
+    "slug": "caldo-de-dragon-c1",
+    "description": "Héroes de Aeros",
+    "color": "#4c98a9",
+    "icon": "Omega",
+    "parentId": "cat-jugadores",
+    "parentSlug": "jugadores"
+  },
+  {
+    "id": "cat-1790940704883",
+    "name": "Caldo de Dragón C2",
+    "slug": "caldo-de-dragon-c2",
+    "description": "Latentes de Kaliria",
+    "color": "#51747b",
+    "icon": "AstralClock",
+    "parentId": "cat-jugadores",
+    "parentSlug": "jugadores"
+  },
+  {
+    "id": "cat-1790940745651",
+    "name": "Expedición de Moonhaven",
+    "slug": "expedicion-de-moonhaven",
+    "description": "Aventureros de Ávalon",
+    "color": "#17b9de",
+    "icon": "TreePine",
+    "parentId": "cat-jugadores",
+    "parentSlug": "jugadores"
+  },
+  {
+    "id": "cat-1790940814851",
+    "name": "Aliados",
+    "slug": "aliados",
+    "description": "Personajes secundarios",
+    "color": "#30bad9",
+    "icon": "Sword",
+    "parentId": "cat-jugadores",
+    "parentSlug": "jugadores"
+  },
+  {
+    "id": "cat-1790941303691",
+    "name": "Letal",
+    "slug": "letal",
+    "description": "Los personajes pueden morir",
+    "color": "#ff0033",
+    "icon": "Sword",
+    "parentId": "cat-1790880265420",
+    "parentSlug": "arena"
+  },
+  {
+    "id": "cat-1790941327931",
+    "name": "No letal",
+    "slug": "no-letal",
+    "description": "Los personajes no pueden morir",
+    "color": "#b17783",
+    "icon": "Sword",
+    "parentId": "cat-1790880265420",
+    "parentSlug": "arena"
+  },
+  {
+    "id": "cat-1790941965228",
+    "name": "Leyendas",
+    "slug": "leyendas",
+    "description": "Subcategoría de Personajes",
+    "color": "#839295",
+    "icon": "Users",
+    "parentId": "cat-personajes",
+    "parentSlug": "personajes"
+  },
+  {
+    "id": "cat-1791024541800",
+    "name": "Tribunal",
+    "slug": "tribunal",
+    "description": "miembros del tribunal",
+    "color": "#6c7b7f",
+    "icon": "Users",
+    "parentId": "cat-personajes",
+    "parentSlug": "personajes"
+  }
+]

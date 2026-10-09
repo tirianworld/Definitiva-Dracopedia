@@ -1,0 +1,4512 @@
+{
+  "nodes": [
+    {
+      "id": "mongraal",
+      "name": "Mongraal",
+      "canonicalName": "Mongraal",
+      "aliases": [],
+      "articleSlug": "mongraal",
+      "articleId": "art-mongraal-player",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Tiefling / Demonio",
+      "summary": "Guerrero y brawler tiefling de piel roja carmesí, grandes cuernos negros y fuerza colosal, célebre por sus pulsos épicos en la taberna y su bravura en combate.",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "oceiros",
+      "name": "Oceiros",
+      "canonicalName": "Oceiros",
+      "aliases": [],
+      "articleSlug": "oceiros",
+      "articleId": "art-1790263137743",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "summary": "*Oceiros es otro de los grandes exponentes de la doctrina solar, venerado por su incansable defensa de la luz contra la oscuridad.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "faram-senor-del-sol",
+      "name": "Faram, señor del Sol",
+      "canonicalName": "Faram, señor del Sol",
+      "aliases": [],
+      "articleSlug": "faram-senor-del-sol",
+      "articleId": "art-1790263133673",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Panteón & Dragones",
+      "raceOrSpecies": "Dioses",
+      "summary": "*Faram es la deidad solar venerada por los Guerreros de la Luz Solar, descrito como el propio Sol, ardiente, generoso y temible en la batalla, fuente de esperanza y justicia en Kaliria.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "la-luna-oscura",
+      "name": "La Luna Oscura",
+      "canonicalName": "La Luna Oscura",
+      "aliases": [],
+      "articleSlug": "la-luna-oscura",
+      "articleId": "art-1790262567396",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Dioses",
+      "summary": "<i>Deidad central de la fe más extendida en Kaliria, encarna la noche y la promesa de que la ausencia de luz impedirá el despertar de los males.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "cid",
+      "name": "Cid",
+      "canonicalName": "Cid",
+      "aliases": [],
+      "articleSlug": "cid",
+      "articleId": "art-1789863802055",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/cid.png",
+      "summary": "Caballero esclavo que, tras la resurrección latente del grupo Caldo de Dragón, los transporta por Kaliria en su carro tirado por el caballo Babieca.  sirve a una señora misteriosa y protege al grupo.",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "inigo",
+      "name": "Iñigo",
+      "canonicalName": "Iñigo",
+      "aliases": [],
+      "articleSlug": "inigo",
+      "articleId": "art-1789639442428",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/inigo.jpg",
+      "summary": "<i>Iñigo, viajero de Kaliria, busca vengar la muerte de su padre asesinado por un desconocido; recorre tierras, recupera su espada y enfrenta al Santo de la Espada antes de pedir la muerte para evitar convertirse en un vacío.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "familias-de-herreros-malditos",
+      "name": "Familias de Herreros Malditos",
+      "canonicalName": "Familias de Herreros Malditos",
+      "aliases": [],
+      "articleSlug": "familias-de-herreros-malditos",
+      "articleId": "art-1787667220867",
+      "hasArticle": true,
+      "category": "Familias",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Familias",
+      "summary": "*Linajes de herreros que han heredado el secreto de forjar el Acero Infernal, transmitiendo no solo el conocimiento, sino también una maldición generacional vinculada a pactos infernales.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "la-casa-loux",
+      "name": "La Casa Loux",
+      "canonicalName": "La Casa Loux",
+      "aliases": [],
+      "articleSlug": "la-casa-loux",
+      "articleId": "art-1787667123829",
+      "hasArticle": true,
+      "category": "Familias",
+      "status": "vivo",
+      "gender": "desconocido",
+      "houseOrFamily": "Casa Loux",
+      "raceOrSpecies": "Familias",
+      "summary": "La Casa Loux, linaje enano de Aeros y Kaliria, es famosa por descubrir y dominar el mithril, una tradición de forja legendaria que combina grandeza, tragedia y redención a través de figuras como Thorin, Leonard y Pepe Loux.",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "smurph-draco",
+      "name": "Smurph Draco",
+      "canonicalName": "Smurph Draco",
+      "aliases": [],
+      "articleSlug": "smurph-draco",
+      "articleId": "art-1787666040104",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Dracónido",
+      "imageUrl": "/images/covers/smurph-draco.png",
+      "summary": "*Dracónido de escamas azules, hechicero de magia caótica y alma inquieta. Su vida terminó con traición, pero su espíritu quedó atrapado en El Nexo, donde aún busca su destino entre las ruinas de Boletaria.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "ludwig",
+      "name": "Ludwig",
+      "canonicalName": "Ludwig",
+      "aliases": [],
+      "articleSlug": "ludwig",
+      "articleId": "art-1787665967192",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "summary": "*Miembro del Tribunal de Kaliria que abrazó la facción de los Aulladores, defendiendo el uso de la transformación bestial como arma de guerra. Su postura refleja una aceptación de la bestialidad como herramienta necesaria.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "chemos-el-dios-oscuro",
+      "name": "Chemos, el Dios Oscuro de la Nigromancia",
+      "canonicalName": "Chemos, el Dios Oscuro de la Nigromancia",
+      "aliases": [],
+      "articleSlug": "chemos-el-dios-oscuro",
+      "articleId": "art-1787665809460",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Panteón & Dragones",
+      "raceOrSpecies": "Dioses",
+      "summary": "*Chemos, deidad primordial de la nigromancia, profanó a Fafnir y corrompió su esencia, transformándolo en una abominación de muerte. Su poder era tal que ni mortales ni inmortales osaban enfrentarlo, hasta que Edacorn lo derrotó con un golpe certero.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "onan-vindland",
+      "name": "Onan Vindland",
+      "canonicalName": "Onan Vindland",
+      "aliases": [],
+      "articleSlug": "onan-vindland",
+      "articleId": "art-1787665729589",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Enano",
+      "imageUrl": "/images/covers/onan-vindland.png",
+      "summary": "*Monje de la Mano Abierta, enano de mirada serena y cicatrices que narran un pasado turbulento. Su búsqueda de equilibrio lo llevó a dominar el ki y convertirse en guía espiritual, alejándose de la violencia para encontrar paz interior.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "primordiales",
+      "name": "Primordiales",
+      "canonicalName": "Primordiales",
+      "aliases": [],
+      "articleSlug": "primordiales",
+      "articleId": "art-1787664919295",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "vivo",
+      "gender": "desconocido",
+      "houseOrFamily": "Panteón & Dragones",
+      "raceOrSpecies": "Dioses",
+      "summary": "*Seres que encarnan los pilares fundamentales del orden mágico del universo. Actúan como manifestaciones vivas de la esencia de la magia y el Poder Cósmico.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "logario",
+      "name": "Logario",
+      "canonicalName": "Logario",
+      "aliases": [],
+      "articleSlug": "logario",
+      "articleId": "art-1787664768610",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "summary": "*Sacerdote del Culto a la Piedad, dedicado a sanar, alimentar y enterrar a los caídos. Representa la faceta compasiva y desinteresada del culto, en contraste con el fanatismo de la Blanca Inquisición.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "la-blanca-via",
+      "name": "La Blanca Vía",
+      "canonicalName": "La Blanca Vía",
+      "aliases": [],
+      "articleSlug": "la-blanca-via",
+      "articleId": "art-1787664756237",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Panteón & Dragones",
+      "raceOrSpecies": "Dioses",
+      "summary": "*Entidad divina de luz blanca que descendió sobre La Capital durante la plaga de las bestias, curando a algunos sin distinción de culpa, pero ignorando a otros. Es adorada como el dios de la misericordia, la redención y la compasión universal, cuyo dogma central reza que la piedad redime y renueva el espíritu.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "faustus",
+      "name": "Faustus",
+      "canonicalName": "Faustus",
+      "aliases": [],
+      "articleSlug": "faustus",
+      "articleId": "art-1784457936358",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "summary": "_Un antepasado de Fara y Kartus Gestas que creó los grimorios que Limeyr busca._",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Fara",
+          "Kartus Gestas"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "fara",
+      "name": "Fara",
+      "canonicalName": "Fara",
+      "aliases": [],
+      "articleSlug": "fara",
+      "articleId": "art-1784457901503",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "summary": "_La madre adoptiva de Limeyr y esposa de Kartus Gestas._",
+      "relations": {
+        "parents": [
+          "Faustus"
+        ],
+        "adoptiveParents": [],
+        "spouses": [
+          "Kartus Gestas"
+        ],
+        "children": [
+          "Limeyr"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "limeyr",
+      "name": "Limeyr",
+      "canonicalName": "Limeyr",
+      "aliases": [],
+      "articleSlug": "limeyr",
+      "articleId": "art-1784457896936",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/limeyr.png",
+      "summary": "_Un joven ser mágico criado por Fara y Kartus Gestas en Spellforge._",
+      "relations": {
+        "parents": [
+          "Fara",
+          "Kartus Gestas"
+        ],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "arbol-aureo-mrf9a5jc",
+      "name": "Árbol Áureo",
+      "canonicalName": "Árbol Áureo",
+      "aliases": [],
+      "articleSlug": "arbol-aureo-mrf9a5jc",
+      "articleId": "art-1783707314003",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "No especificado",
+      "raceOrSpecies": "No especificado",
+      "summary": "Entidad divina que mantiene unida a Ávalon y otorga inmortalidad a sus habitantes mediante la absorción de energía vital y almas.",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "stariax-mre4wqiy",
+      "name": "Stariax",
+      "canonicalName": "Stariax",
+      "aliases": [
+        "Stariax"
+      ],
+      "articleSlug": "stariax-mre4wqiy",
+      "articleId": "art-1783639501899",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "femenino",
+      "houseOrFamily": "Desconocida",
+      "raceOrSpecies": "Humano (antes), Criatura mejorada (después)",
+      "imageUrl": "/images/covers/stariax-mre4wqiy.png",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "eyegore-mrdrh1ob",
+      "name": "Eyegore",
+      "canonicalName": "Eyegore",
+      "aliases": [],
+      "articleSlug": "eyegore-mrdrh1ob",
+      "articleId": "art-1783616936721",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "summary": "Uno de los hijos de Ghazghkull Mag Uruk Thraka, con una visión de gloria y grandeza para reclamar el poder de su padre.",
+      "relations": {
+        "parents": [
+          "Ghazghkull Mag Uruk Thraka",
+          "Humana"
+        ],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "magor",
+      "name": "Magor",
+      "canonicalName": "Magor",
+      "aliases": [
+        "El Mago Negro"
+      ],
+      "articleSlug": "magor",
+      "articleId": "art-1783384171137",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Panteón de Aeros",
+      "raceOrSpecies": "Dios (antes), Humano (antes), Semidiós",
+      "imageUrl": "/images/covers/magor.webp",
+      "summary": "<i>Magor, el Mago Negro, es el dios oscuro del destino en Caldo de Dragón, antaño divinidad del panteón de Aeros y ahora semidiós que camina entre mortales. Su imponente figura de 2,10 m, mirada fría y ambición de venganza lo convierten en el villano central de la trilogía.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Dioses (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "luna-diaz",
+      "name": "Luna Díaz",
+      "canonicalName": "Luna Díaz",
+      "aliases": [
+        "La alquimista del Este"
+      ],
+      "articleSlug": "luna-diaz",
+      "articleId": "art-1783384153266",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "femenino",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Semielfa",
+      "imageUrl": "/images/covers/luna-diaz.webp",
+      "summary": "*Luna Díaz, semielfa alquimista del Este, nació en Cryostar y, a sus treinta y dos años, sucumbió a una enfermedad tras el parto, dejando una huella de amor y curación en su esposo Arlon y su hijo Arlem.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Arlon Díaz"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "leonard-loux",
+      "name": "Leonard Loux",
+      "canonicalName": "Leonard Loux",
+      "aliases": [],
+      "articleSlug": "leonard-loux",
+      "articleId": "art-1783384140253",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Casa Loux",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/leonard-loux.webp",
+      "summary": "*Leonard Loux, el último gran rey del Imperio Enano, gobernó con puño de hierro y martillo de forja, guiando a su pueblo a una Era de Plata mediante viajes extraplanares, pero su ambición abrió portales que colapsaron, sumiendo al reino bajo aguas y dejando su legado de ruina y esperanza.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "laila-diaz",
+      "name": "Laila Díaz",
+      "canonicalName": "Laila Díaz",
+      "aliases": [
+        "La extranjera"
+      ],
+      "articleSlug": "laila-diaz",
+      "articleId": "art-1783384123569",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "femenino",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Humana",
+      "imageUrl": "/images/covers/laila-diaz.webp",
+      "summary": "*Laila Díaz, conocida como La extranjera, fue una humana campesina de 61 años nacida en 1.499 DDD en Aeros. Su vida estuvo marcada por la pérdida de su esposo Arkalon, la dureza con su hijo Arlon y el amor doloroso por su nieto Arlem, hasta su fallecimiento tras la muerte de éste.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Arlon Díaz",
+          "Arkalon Díaz"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Auros Díaz (Nieto / Descendiente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "la-profecia-viviente",
+      "name": "La profecia viviente",
+      "canonicalName": "La profecia viviente",
+      "aliases": [
+        "Ninguno"
+      ],
+      "articleSlug": "la-profecia-viviente",
+      "articleId": "art-1783384114296",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Desconocida",
+      "raceOrSpecies": "Bestia del Apocalipsis",
+      "imageUrl": "/images/covers/la-profecia-viviente.webp",
+      "summary": "*La Profecía Viviente es la encarnación de todas las predicciones apocalípticas: una sombra envuelta en oscuridad, con alas de fuego profético y una boca espectral que susurra el fin. Su existencia, sin voluntad propia, representa el destino inevitable y el eco de los augurios olvidados.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "la-familia-elegida",
+      "name": "La Familia Elegida",
+      "canonicalName": "La Familia Elegida",
+      "aliases": [],
+      "articleSlug": "la-familia-elegida",
+      "articleId": "art-1783384085595",
+      "hasArticle": true,
+      "category": "Familias",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Familias",
+      "summary": "*Dinastía real que gobernó Moonhaven tras la Guerra del Averno, forjada no por linaje divino, sino por la elección del pueblo y la bendición de los dioses. Su legado perdura en la memoria colectiva como símbolo de fe, justicia y sacrificio.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "koryu-no-kame",
+      "name": "Kōryū no Kame",
+      "canonicalName": "Kōryū no Kame",
+      "aliases": [
+        "El protector de makai"
+      ],
+      "articleSlug": "koryu-no-kame",
+      "articleId": "art-1783384061420",
+      "hasArticle": true,
+      "category": "Dragones",
+      "status": "vivo",
+      "gender": "desconocido",
+      "houseOrFamily": "Makai",
+      "raceOrSpecies": "Dragón Tortuga Divino",
+      "imageUrl": "/images/covers/koryu-no-kame.webp",
+      "summary": "<i>Kōryū no Kame, la colosal tortuga‑dragón de Makai, custodia un portal infernal en su caparazón. Creado por Gorm hace milenios, su presencia sella la grieta que conecta la isla con los abismos, manteniendo el equilibrio entre los vivos y los condenados.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "kurogame",
+      "name": "Kurogame",
+      "canonicalName": "Kurogame",
+      "aliases": [
+        "El guardián de makai"
+      ],
+      "articleSlug": "kurogame",
+      "articleId": "art-1783384037994",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Makai",
+      "raceOrSpecies": "Leonin",
+      "imageUrl": "/images/covers/kurogame.webp",
+      "summary": "<i>Kurogame, el legendario leonin de 67 años, es un guerrero veterano y protector de Makai que, tras perder la vista en un duelo contra un demonio, selló las Puertas del Infierno y ahora lidera la Resistencia de Moonhaven contra la oscuridad.</i> _Kurogame es el capitán del Santa María, apodado el León Negro._",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "kairon",
+      "name": "Kairon",
+      "canonicalName": "Kairon",
+      "aliases": [
+        "Kairon"
+      ],
+      "articleSlug": "kairon",
+      "articleId": "art-1783384021681",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "cuerpo_destruido",
+      "gender": "masculino",
+      "houseOrFamily": "Familia de Herreros",
+      "raceOrSpecies": "Tiefling",
+      "imageUrl": "/images/covers/kairon.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Padre (Pariente)",
+          "Madre (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "kaelgor-loux",
+      "name": "Kaelgor Loux",
+      "canonicalName": "Kaelgor Loux",
+      "aliases": [
+        "El Tirano"
+      ],
+      "articleSlug": "kaelgor-loux",
+      "articleId": "art-1783384007092",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Casa Duergar Loux",
+      "raceOrSpecies": "Duergar",
+      "imageUrl": "/images/covers/kaelgor-loux.webp",
+      "summary": "*Kaelgor Loux, conocido como El Tirano, es el rey negro de los duergars del Imperio Loux en el Underdark. Nacido en el Año 0 de la Edad Dorada Duergar, gobierna con miedo, fuerza y magia oscura, buscando la inmortalidad y dejando un legado de terror.*",
+      "relations": {
+        "parents": [
+          "Gornak",
+          "Norgra"
+        ],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Thorfin Loux"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "herald-i-de-moonhaven",
+      "name": "Herald I de Moonhaven",
+      "canonicalName": "Herald I de Moonhaven",
+      "aliases": [
+        "El Iluminado"
+      ],
+      "articleSlug": "herald-i-de-moonhaven",
+      "articleId": "art-1783383992600",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Familia Real Tess",
+      "raceOrSpecies": "Humano",
+      "summary": "<i>Herald I, conocido como el Iluminado, fue el rey de Moonhaven y heredero de la Familia Real Tess. Nacido en 1.470 DDD, gobernó con sabiduría y fe, sufrió la pérdida de su esposa Lady Elyria y cayó heroicamente en la batalla contra el mago negro Magor.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "[object Object] (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "havrik-deez",
+      "name": "Havrik Deez",
+      "canonicalName": "Havrik Deez",
+      "aliases": [
+        "El Patriarca"
+      ],
+      "articleSlug": "havrik-deez",
+      "articleId": "art-1783383985437",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Casa Deez",
+      "raceOrSpecies": "Enano",
+      "imageUrl": "/images/covers/havrik-deez.webp",
+      "summary": "<i>Havrik Deez, conocido como El Patriarca, es un enano de 221 años, herrero y sacerdote de Marduk, cuyo legado combina la panadería sagrada y la fe, ofreciendo pan curativo y bendiciones de cosechas, y cuyo amor con la sacerdotisa Druunia marcó su historia.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Chispo Deez"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "gromock",
+      "name": "Gromock",
+      "canonicalName": "Gromock",
+      "aliases": [
+        "Bonecrusher"
+      ],
+      "articleSlug": "gromock",
+      "articleId": "art-1783383954035",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "houseOrFamily": "Clan Bonecrusher",
+      "raceOrSpecies": "Orco",
+      "imageUrl": "/images/covers/gromock.webp",
+      "summary": "*Gromock, conocido como Bonecrusher, es un orco berserker del Clan Bonecrusher cuyo único propósito es la sangre y la venganza. Tras ser emboscado y humillado por Arlem en una mina de Aeros, dedica años a perseguirlo, solo para ser perdonado y luego ejecutado por la magia del Consejo Omega, desapareciendo en el olvido.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "greta-diaz",
+      "name": "Greta Díaz",
+      "canonicalName": "Greta Díaz",
+      "aliases": [
+        "La enfermera"
+      ],
+      "articleSlug": "greta-diaz",
+      "articleId": "art-1783383947548",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "femenino",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Humana",
+      "imageUrl": "/images/covers/greta-diaz.webp",
+      "summary": "*Greta Díaz, la enfermera de la Guerra del Averno, nació en 1462 en los valles de Aeros. Con su mirada ámbar y su corazón compasivo, curó a innumerables soldados, abrazó al huérfano Arkalon y, al fin, entregó su vida en paz rodeada de su familia.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "greg-diaz",
+      "name": "Greg Díaz",
+      "canonicalName": "Greg Díaz",
+      "aliases": [
+        "El Vendedor de Ajos"
+      ],
+      "articleSlug": "greg-diaz",
+      "articleId": "art-1783383928932",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Humano",
+      "imageUrl": "/images/covers/greg-diaz.webp",
+      "summary": "*Greg Díaz, hombre robusto de 65 años nacido en 1463 en Aeros, sirvió como sargento en la sangrienta Guerra del Averno. Tras retirarse, adoptó al huérfano Arkalon, guiándolo con lealtad hasta que el niño cayó muerto a manos de Gromok, dejando al veterano marcado por la pérdida y la determinación.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Esposa de Greg Díaz"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Arlon Díaz (Nieto / Descendiente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "freya",
+      "name": "Freya",
+      "canonicalName": "Freya",
+      "aliases": [
+        "La diosa Madre"
+      ],
+      "articleSlug": "freya",
+      "articleId": "art-1783383871252",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "desterrado",
+      "gender": "femenino",
+      "houseOrFamily": "Dioses De Aeros",
+      "raceOrSpecies": "Diosa",
+      "summary": "<i>Freya, diosa del amor, fertilidad y sabiduría, llega a Aeros como luz celestial, venerada por los enanos nórdicos y académicos. Su dualidad entre ternura y furia la convierte en protectora y guerrera, y su destierro al Plano Astral alimenta la esperanza de su regreso.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Dioses Nordicos (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "fit-fitson",
+      "name": "Fit Fitson",
+      "canonicalName": "Fit Fitson",
+      "aliases": [],
+      "articleSlug": "fit-fitson",
+      "articleId": "art-1783383857331",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Familia Fitson",
+      "raceOrSpecies": "Harengon",
+      "imageUrl": "/images/covers/fit-fitson.png",
+      "summary": "*Fit Fitson, el carismático rabbitfolk bardo de pelaje níveo y mirada ámbar, es capitán de la resistencia de Moonhaven. Antiguo trovador errante y posadero de *El Ciervo Celeste*, su ingenio, carisma y espadachín refinado lo convierten en un símbolo de esperanza contra la tiranía de Zaltar y Magor.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "ferton",
+      "name": "Ferton",
+      "canonicalName": "Ferton",
+      "aliases": [
+        "El principe mercante"
+      ],
+      "articleSlug": "ferton",
+      "articleId": "art-1783383842297",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Casa Lyrian",
+      "raceOrSpecies": "Humano",
+      "imageUrl": "/images/covers/ferton.webp",
+      "summary": "*Ferton Lyrian, el príncipe mercante de la Casa Lyrian, es un humano de 27 años cuya ambición lo llevó a dominar el mercado negro de Aeros, traficando esclavos, órganos y drogas, hasta que el barón de Icespear lo persiguió y su mansión ardió en llamas nocturnas.*",
+      "relations": {
+        "parents": [
+          "Padre de Ferton (Desconocido)",
+          "Madre de Ferton (Desaparecida)"
+        ],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "familia-diaz",
+      "name": "Familia Díaz",
+      "canonicalName": "Familia Díaz",
+      "aliases": [],
+      "articleSlug": "familia-diaz",
+      "articleId": "art-1783383808528",
+      "hasArticle": true,
+      "category": "Familias",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Familias",
+      "summary": "*La familia Díaz, linaje antiguo del continente de Aeros, emerge de humildes campesinos y lleva en su sangre la esencia de un dragón dorado. Sus miembros, marcados por sacrificios, tragedias y una profecía, han sido pilares en la resistencia contra la oscuridad que asola su tierra.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "familia-deez",
+      "name": "Familia Deez",
+      "canonicalName": "Familia Deez",
+      "aliases": [],
+      "articleSlug": "familia-deez",
+      "articleId": "art-1783383801004",
+      "hasArticle": true,
+      "category": "Familias",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Casa Deez",
+      "raceOrSpecies": "Enanos",
+      "summary": "*La familia Deez, una de las más antiguas y veneradas entre los enanos de Aeros, pasó de ser druidas devotos de Freya a paladines de Marduk, enfrentó la sangrienta masacre de Glimmerstone y dejó un legado de equilibrio entre naturaleza y guerra.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "el-baron",
+      "name": "El barón",
+      "canonicalName": "El barón",
+      "aliases": [],
+      "articleSlug": "el-baron",
+      "articleId": "art-1783383765360",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Madre de Ferton (Desaparecida), Padre de Ferton (Desconocido)",
+      "raceOrSpecies": "Humano (según contexto narrativo)",
+      "imageUrl": "/images/covers/el-baron.png",
+      "summary": "*Alistar Vandimere, conocido como el Barón, es el señor supremo del mercado negro de Aeros; un aristócrata de mirada carmesí y presencia imponente que maneja sombras, secretos y pactos ancestrales, cuya longevidad y astucia lo convierten en una leyenda inmortal.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "el-senor-de-la-ceniza-bestia-del-apocalipsis",
+      "name": "El Señor de La Ceniza (Bestia del Apocalipsis)",
+      "canonicalName": "El Señor de La Ceniza (Bestia del Apocalipsis)",
+      "aliases": [
+        "Ninguno"
+      ],
+      "articleSlug": "el-senor-de-la-ceniza-bestia-del-apocalipsis",
+      "articleId": "art-1783383757681",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Desconocida",
+      "raceOrSpecies": "Bestia del Apocalipsis",
+      "imageUrl": "/images/covers/el-senor-de-la-ceniza-bestia-del-apocalipsis.webp",
+      "summary": "*El Señor de la Ceniza, manifestación viviente de furia volcánica y desolación infernal, es una Bestia del Apocalipsis de 12 m, envuelta en obsidiana y fuego, portadora de la espada Fauce Ígnea y el látigo de llamas negras, cuyo propósito es reducir todo a cenizas para reiniciar el ciclo del mundo.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "el-loa-tigre",
+      "name": "El Loa Tigre",
+      "canonicalName": "El Loa Tigre",
+      "aliases": [
+        "El guardián del bosque"
+      ],
+      "articleSlug": "el-loa-tigre",
+      "articleId": "art-1783383728706",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Loas(Semidioses Naturales)",
+      "raceOrSpecies": "Semidios Natural(Loa)",
+      "summary": "<i>El Loa Tigre, guardián del bosque y semidiós elemental, surge como un majestuoso tigre verde de 12 metros, con ojos dorados y un collar de acero infernal que lo corrompe bajo el dominio de Zaltar, hasta ser liberado por Caldo de Dragón.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [
+          "Loas"
+        ],
+        "relatives": [
+          "Gorm (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "edacorn",
+      "name": "Edacorn",
+      "canonicalName": "Edacorn",
+      "aliases": [
+        "El Primer Esmeralizador"
+      ],
+      "articleSlug": "edacorn",
+      "articleId": "art-1783383696074",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "cuerpo_destruido",
+      "gender": "masculino",
+      "houseOrFamily": "Esmeralizadores",
+      "raceOrSpecies": "Aasimar (Antes), Erkan (Homúnculo)",
+      "imageUrl": "/images/covers/edacorn.webp",
+      "summary": "",
+      "relations": {
+        "parents": [
+          "Padre de Edacorn (Fallecido)"
+        ],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Esmeralizadores (Pariente)",
+          "Fafnir (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "durnik",
+      "name": "Durnik",
+      "canonicalName": "Durnik",
+      "aliases": [
+        "El Lobo"
+      ],
+      "articleSlug": "durnik",
+      "articleId": "art-1783383681399",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Tribu MartilloSalvaje",
+      "raceOrSpecies": "Enano de las Montañas",
+      "imageUrl": "/images/covers/durnik.webp",
+      "summary": "*Durnik MartilloSalvaje, el enano de 148 años conocido como El Lobo, sirvió como guardaespaldas leal del mercader Ferton. De complexión robusta, barba negra y dos martillos rúnicos, su disciplina y sacrificio lo convirtieron en una figura temida, hasta su trágica caída en la noche del asalto del Caldo de Dragón.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "druunia-deez",
+      "name": "Druunia Deez",
+      "canonicalName": "Druunia Deez",
+      "aliases": [
+        "La Matriarca"
+      ],
+      "articleSlug": "druunia-deez",
+      "articleId": "art-1783383676063",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desaparecido",
+      "gender": "femenino",
+      "houseOrFamily": "Casa Deez",
+      "raceOrSpecies": "Enana",
+      "imageUrl": "/images/covers/druunia-deez.webp",
+      "summary": "<i>Druinia Deez, matriarca de la Casa Deez, es una enana sacerdotisa que lideró la iglesia de Freya en Glimmerstone, guió la transición al culto de Marduk y desapareció tras la Masacre de Glimmerstone, dejando su legado en medallones y talismanes.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Chispo Deez (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "drakaris",
+      "name": "Drakaris",
+      "canonicalName": "Drakaris",
+      "aliases": [
+        "El justo"
+      ],
+      "articleSlug": "drakaris",
+      "articleId": "art-1783383662033",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "houseOrFamily": "Familia Real de Draconia, Familia Real de Cryostar",
+      "raceOrSpecies": "Dragonborn",
+      "imageUrl": "/images/covers/drakaris.webp",
+      "summary": "*Drakaris, príncipe de Draconia y descendiente de los legendarios dragonborn dorados y plateados, encarna la justicia y la nobleza. Su linaje dracónico, marcado por escamas plateadas y doradas, lo convierte en un líder sabio, estratega y diplomático, cuya lealtad inquebrantable y corazón honorable lo consagran como símbolo de esperanza en Aeros.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Alexxtros"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Auros (Abuelo)",
+          "Arkadis (Abuela)",
+          "Auros Díaz (Primo / Prima)",
+          "Drakara (Pariente)",
+          "Lyrian (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "chispo-deez",
+      "name": "Chispo Deez",
+      "canonicalName": "Chispo Deez",
+      "aliases": [
+        "El Avatar de Marduk"
+      ],
+      "articleSlug": "chispo-deez",
+      "articleId": "art-1783383623438",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "cuerpo_destruido",
+      "gender": "masculino",
+      "houseOrFamily": "Familia Deez",
+      "raceOrSpecies": "Enano (Antes), Enano Avatar Divino",
+      "imageUrl": "/images/covers/chispo-deez.webp",
+      "summary": "",
+      "relations": {
+        "parents": [
+          "Havrik Deez"
+        ],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "chemos",
+      "name": "Chemos",
+      "canonicalName": "Chemos",
+      "aliases": [
+        "El dios de los no muertos"
+      ],
+      "articleSlug": "chemos",
+      "articleId": "art-1783383607565",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Dioses de Aeros",
+      "raceOrSpecies": "Dios Oscuro",
+      "summary": "*Chemos, el dios oscuro de los no muertos, es una entidad temida y reverenciada; anciano cadavérico de ojos negros y magia negra como petróleo. Lideró el Consejo Omega, corrompió héroes y fue aniquilado por Edacorn, hijo del dios dragón, poniendo fin a su reinado.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Consejo Omega (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "barled",
+      "name": "Barled",
+      "canonicalName": "Barled",
+      "aliases": [],
+      "articleSlug": "barled",
+      "articleId": "art-1783383570297",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "cuerpo_destruido",
+      "gender": "masculino",
+      "raceOrSpecies": "Humano",
+      "imageUrl": "/images/covers/barled.webp",
+      "summary": "*Barled, un humano latente de Kaliria, fue marcado por la pérdida de su abuela y la injusticia de los Medicci. Su sed de venganza lo llevó a renacer como un espíritu impulsado por la justicia, fusionando el arte de la sanación con un destino de sombra y retribución.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Abuela (Abuela)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "auros-diaz",
+      "name": "Auros Díaz",
+      "canonicalName": "Auros Díaz",
+      "aliases": [],
+      "articleSlug": "auros-diaz",
+      "articleId": "art-1783383562265",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/auros-diaz.webp",
+      "summary": "*Auros Díaz, príncipe de Moonhaven y erkan híbrido de sangre dracónica, destaca por su porte regio, escamas doradas y cuernos, y lleva la carga de la ausencia de su padre. Joven erudito del combate y la magia, busca alianzas y respuestas mientras protege a Aeros de la amenaza de Magor.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "asmodeo",
+      "name": "Asmodeo",
+      "canonicalName": "Asmodeo",
+      "aliases": [
+        "El señor de los infiernos"
+      ],
+      "articleSlug": "asmodeo",
+      "articleId": "art-1783383546933",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "No",
+      "raceOrSpecies": "Archidiablo",
+      "imageUrl": "/images/covers/asmodeo.webp",
+      "summary": "<i>Asmodeo, el archidiablo supremo, encarna la maldad refinada y la astucia infinita. Gobernante de los Nueve Infiernos, su historia se extiende desde el origen del cosmos, pasando por su derrota y destierro, hasta la creación de un reino de pactos infernales que domina la eternidad.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Los 9 Infiernos (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "arkalon-diaz",
+      "name": "Arkalon Díaz",
+      "canonicalName": "Arkalon Díaz",
+      "aliases": [
+        "El hijo del Vendedor de Ajos"
+      ],
+      "articleSlug": "arkalon-diaz",
+      "articleId": "art-1783383478434",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Casa Real de Cryostar (Antes); Familia Díaz",
+      "raceOrSpecies": "Dragón Dorado (Antes); Humano",
+      "imageUrl": "/images/covers/arkalon-diaz.webp",
+      "summary": "_Arkalon Díaz, nacido en 1463 DDD como dragón dorado, fue transformado en humano y criado por la familia campesina Díaz. Agricultor de corazón, su vida se entrelaza con misterios dracónicos, un matrimonio y un hijo, hasta su trágica muerte a manos de Gromok._",
+      "relations": {
+        "parents": [
+          "Auros",
+          "Laila Díaz"
+        ],
+        "adoptiveParents": [],
+        "spouses": [
+          "Arkadis"
+        ],
+        "children": [
+          "Arlon Díaz"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Arlem Díaz (Nieto / Descendiente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "aeliana",
+      "name": "Aeliana",
+      "canonicalName": "Aeliana",
+      "aliases": [
+        "Aeliana de Radack (antiguo), Aeliana Díaz (actual)"
+      ],
+      "articleSlug": "aeliana",
+      "articleId": "art-1783383434816",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "femenino",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Humano",
+      "imageUrl": "/images/covers/aeliana.png",
+      "summary": "*Aeliana Díaz, antaño paladín de Freya, pasó de la devoción a la traición, la corrupción y la redención. Su vida, marcada por la pérdida y la violencia, la llevó a convertirse en la reina de Moonhaven, un faro de esperanza en un mundo sumido en sombras, donde lucha por sanar su alma y encontrar al desaparecido Caldo de Dragón.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Arlem Díaz"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Auros Díaz (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "umberlee",
+      "name": "Umberlee",
+      "canonicalName": "Umberlee",
+      "aliases": [
+        "La bestia Marina (Antes); La diosa Oscura de las profundidades"
+      ],
+      "articleSlug": "umberlee",
+      "articleId": "art-1783383355847",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "fallecido",
+      "gender": "femenino",
+      "houseOrFamily": "Dioses de Aeros",
+      "raceOrSpecies": "Diosa Oscura",
+      "summary": "<i>Umberlee, diosa oscura del mar de Aeros, encarna la furia abisal y el rencor contra mortales y dioses ajenos al Consejo Omega. De 15 m de altura, su torso humanoide se funde con tentáculos de kraken, y su voluntad controla tormentas y criaturas oceánicas.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Consejo Omega (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "thravir-el-loxodon",
+      "name": "Thravir, el Loxodon",
+      "canonicalName": "Thravir, el Loxodon",
+      "aliases": [
+        "Ninguno"
+      ],
+      "articleSlug": "thravir-el-loxodon",
+      "articleId": "art-1783383337454",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "houseOrFamily": "Desconocida",
+      "raceOrSpecies": "Loxodon",
+      "imageUrl": "/images/covers/thravir-el-loxodon.png",
+      "summary": "*Thravir, el Loxodon, es un ser imponente de rasgos elefantinos y mirada cargada de secretos ancestrales. Dueño de la Tienda 23 y antiguo miembro del Consejo Omega, su naturaleza pragmática y su conexión con lo arcano lo convierten en un manipulador sutil pero peligroso, cuyo verdadero poder yace en los hilos oscuros de la magia y el comercio.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "thorin-loux",
+      "name": "Thorin Loux",
+      "canonicalName": "Thorin Loux",
+      "aliases": [
+        "El Primero"
+      ],
+      "articleSlug": "thorin-loux",
+      "articleId": "art-1783383328490",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Casa Loux",
+      "raceOrSpecies": "Enano",
+      "imageUrl": "/images/covers/thorin-loux.webp",
+      "summary": "*Thorin Loux, primer rey enano de linaje real, forjó una era dorada para su pueblo con su sabiduría y valor. Su liderazgo, marcado por lealtad y ambición, unificó a los enanos bajo su cetro, aunque su legado quedó ensombrecido por las decisiones que corrompieron a su descendencia.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Gilda Bravacobre"
+        ],
+        "children": [
+          "Thorfin Loux"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Thorfin Loux (Pariente)",
+          "Leonard Loux (Pariente)",
+          "Brynhildr Piedranegra (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "thorfin-loux",
+      "name": "Thorfin Loux",
+      "canonicalName": "Thorfin Loux",
+      "aliases": [
+        "El Maldito"
+      ],
+      "articleSlug": "thorfin-loux",
+      "articleId": "art-1783383320579",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Casa Loux",
+      "raceOrSpecies": "Enano(Antes), Duergar",
+      "imageUrl": "/images/covers/thorfin-loux.webp",
+      "summary": "*Thorfin Loux, hijo de Thorin y Gilda, ascende como el primer rey duergar del Gran Imperio Enano. Consumido por la codicia y los susurros de los azotamentes, su reinado se torna oscuro, convirtiendo a su pueblo en Duergars y dejando una sombra de corrupción sobre su linaje.*",
+      "relations": {
+        "parents": [
+          "Kaelgor Loux",
+          "Thorin Loux",
+          "Gilda Bravacobre"
+        ],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "stitch",
+      "name": "Stitch",
+      "canonicalName": "Stitch",
+      "aliases": [
+        "El Relámpago Negro"
+      ],
+      "articleSlug": "stitch",
+      "articleId": "art-1783383256643",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Los aventureros del II Brezo",
+      "raceOrSpecies": "ChinchillaFolk",
+      "imageUrl": "/images/covers/stitch.webp",
+      "summary": "*Stitch, alias El Relámpago Negro, es un capitán de espías de la Resistencia de Moonhaven, una chinchilla de pelaje gris y mirada penetrante. Astuto, incansable y de energía arrolladora, lidera con pasión y sigilo, inspirando lealtad en su escuadrón mientras navega entre sombras y secretos con ingenio implacable.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "roxanne",
+      "name": "Roxanne",
+      "canonicalName": "Roxanne",
+      "aliases": [],
+      "articleSlug": "roxanne",
+      "articleId": "art-1783383234589",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "cuerpo_destruido",
+      "gender": "femenino",
+      "raceOrSpecies": "Vulpin, Latente",
+      "imageUrl": "/images/covers/roxanne.webp",
+      "summary": "*Roxanne, vulpin de 22 años, nació en una familia de sabios poetas y abandonó su hogar a los dieciocho para seguir su pasión musical. Tras caer en la esclavitud de un proxeneta, fue asesinada, pero resucitó como Latente y ahora lucha con su voz y habilidades en Caldo de Dragón.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "rey-redcap",
+      "name": "Rey Redcap",
+      "canonicalName": "Rey Redcap",
+      "aliases": [],
+      "articleSlug": "rey-redcap",
+      "articleId": "art-1783383230017",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "houseOrFamily": "Redcaps del Bosque Azul",
+      "raceOrSpecies": "Redcap(Antes); Redcap Mutante",
+      "imageUrl": "/images/covers/rey-redcap.png",
+      "summary": "<i>El Rey Redcap, una entidad fey colosal surgida de un redcap que bebió de un portal al Feywild, gobierna con una corona dorada, hacha sangrienta y aura de miedo. Su sed de sangre lo impulsa, pero su fin llega a manos de héroes que sellan su caída.</i>",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Pecados Capitales (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "raxxar",
+      "name": "Raxxar",
+      "canonicalName": "Raxxar",
+      "aliases": [
+        "Raxxar BlackHorns"
+      ],
+      "articleSlug": "raxxar",
+      "articleId": "art-1783383210545",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "cuerpo_destruido",
+      "gender": "masculino",
+      "houseOrFamily": "Su Madre",
+      "raceOrSpecies": "Leonin/Tiefeling",
+      "imageUrl": "/images/covers/raxxar.webp",
+      "summary": "Sin resumen",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Auros (Abuelo)",
+          "Arkadis (Abuela)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "ragnavaldr",
+      "name": "Ragnavaldr",
+      "canonicalName": "Ragnavaldr",
+      "aliases": [],
+      "articleSlug": "ragnavaldr",
+      "articleId": "art-1783383205089",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "cuerpo_destruido",
+      "gender": "masculino",
+      "houseOrFamily": "Tribu de Goliats de La Gran Nada",
+      "raceOrSpecies": "Goliat",
+      "imageUrl": "/images/covers/ragnavaldr.png",
+      "summary": "*Ragnavaldr es un Goliat druidobárbaro cuya fuerza titánica y vínculo con la naturaleza lo convierten en un guerrero temible. Tras una juventud en la Gran Nada, su hogar fue destruido, muere en una emboscada y resurge impulsado por una venganza inexorable.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Tribu de Goliats de La Gran Nada (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "ragnarok",
+      "name": "Ragnarok",
+      "canonicalName": "Ragnarok",
+      "aliases": [
+        "Ninguno"
+      ],
+      "articleSlug": "ragnarok",
+      "articleId": "art-1783383197350",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Bestias del Apocalipsis",
+      "raceOrSpecies": "Bestia del Apocalipsis",
+      "imageUrl": "/images/covers/ragnarok.png",
+      "summary": "*Ragnarok es la tercera Bestia del Apocalipsis, una colosal entidad de sombras y fuego creada por la furia del dios desterrado Belial. Sin mente ni voluntad, encarna la destrucción absoluta, portando una espada de Phlegethos que consume la existencia y anuncia el fin del mundo.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Bestias del Apocalipsis (Tío / Tía)",
+          "Belial (Creador / Progenitor Místico)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "pythor",
+      "name": "Pythor",
+      "canonicalName": "Pythor",
+      "aliases": [
+        "Lengua Viperina"
+      ],
+      "articleSlug": "pythor",
+      "articleId": "art-1783383175324",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Casa Real Yuan ti",
+      "raceOrSpecies": "Humano (Antes), Yuan ti (Antes), Semidios Yuan ti",
+      "imageUrl": "/images/covers/pythor.webp",
+      "summary": "*Pythor, sumo sacerdote y señor supremo de la oculta ciudad yuan‑ti Kaanil Nah, combina la astucia humana con la majestad serpentina. Gobernante milenario de 1200 años, manipula alianzas y rituales para transformar a su pueblo y expandir su dominio sobre los bosques prehistóricos.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "prometeo",
+      "name": "Prometeo",
+      "canonicalName": "Prometeo",
+      "aliases": [],
+      "articleSlug": "prometeo",
+      "articleId": "art-1783383170809",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "cuerpo_destruido",
+      "gender": "masculino",
+      "raceOrSpecies": "Genashi de Fuego/Tiefeling",
+      "imageUrl": "/images/covers/prometeo.webp",
+      "summary": "*Prometeo, Bloodhunter genashi de fuego de Kaliria, es una creación artificial de 23 años destinada a combatir la plaga de bestias. Con cuernos, piel morada y ojos llameantes, combina fuerza bestial y una emergente humanidad, aunque su torpeza social le persigue.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "pepe-loux",
+      "name": "Pepe Loux",
+      "canonicalName": "Pepe Loux",
+      "aliases": [
+        "Heredero de los Loux, Guerrero de ceniza"
+      ],
+      "articleSlug": "pepe-loux",
+      "articleId": "art-1783383097223",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Familia Loux",
+      "raceOrSpecies": "Enano",
+      "imageUrl": "/images/covers/pepe-loux.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Familia Loux (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "nuitari",
+      "name": "Nuitari",
+      "canonicalName": "Nuitari",
+      "aliases": [
+        "La diosa de la magia Oscura"
+      ],
+      "articleSlug": "nuitari",
+      "articleId": "art-1783383075230",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "fallecido",
+      "gender": "femenino",
+      "houseOrFamily": "Dioses de Aeros",
+      "raceOrSpecies": "Diosa",
+      "summary": "*Nuitari, diosa de la magia oscura, es una entidad primordial nacida del caos cósmico y las sombras entre mundos. Su poder radica en la manipulación sutil, el control mental y la corrupción de voluntades, tejiendo destinos desde las tinieblas. Con una presencia etérea y ojos naranjas como brasas, encarna la ambición desmedida y la astucia maquiavélica.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Consejo Omega (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "morgion",
+      "name": "Morgion",
+      "canonicalName": "Morgion",
+      "aliases": [
+        "El Dios Oscuro de la Peste y Podredumbre"
+      ],
+      "articleSlug": "morgion",
+      "articleId": "art-1783383027900",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "fallecido",
+      "gender": "masculino",
+      "houseOrFamily": "Dioses de Aeros",
+      "raceOrSpecies": "Dios Oscuro",
+      "summary": "*Morgion, el Dios Oscuro de la Peste y la Podredumbre, encarna la corrupción eterna entre la vida y la muerte. Su figura decrépita, envuelta en un aura de enfermedad y desesperanza, simboliza la inevitabilidad de la decadencia para mortales e inmortales por igual, sin más propósito que regir el sufrimiento como justicia suprema.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Consejo Omega (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "mimir",
+      "name": "Mimir",
+      "canonicalName": "Mimir",
+      "aliases": [
+        "El Guardián de los Secretos"
+      ],
+      "articleSlug": "mimir",
+      "articleId": "art-1783382996827",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "houseOrFamily": "Desconocido",
+      "raceOrSpecies": "Humano",
+      "imageUrl": "/images/covers/mimir.webp",
+      "summary": "*Mimir, el Guardián de los Secretos, es un dijin ancestral atrapado en la corteza de un árbol milenario; su cuerpo fusionado con raíces y cuernos arcanos alberga un ojo dorado que contempla los hilos del destino, ofreciendo sabiduría a cambio de un precio.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Desconocidos (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "midas-diosa-del-comercio",
+      "name": "Midas, Diosa del comercio",
+      "canonicalName": "Midas, Diosa del comercio",
+      "aliases": [
+        "Diosa del comercio y la riqueza"
+      ],
+      "articleSlug": "midas-diosa-del-comercio",
+      "articleId": "art-1783382991898",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "desconocido",
+      "gender": "femenino",
+      "houseOrFamily": "Casa Real de Cryostar, Casa Real de Draconia, Casa Real de Moonhaven",
+      "raceOrSpecies": "Diosa",
+      "summary": "*Zoe Marigold, conocida como Midas, es la Diosa del Comercio y la Riqueza en el universo de Caldo de Dragón. Ascendida por los dioses exiliados, encarna el equilibrio entre la abundancia y la justicia, dominando una maldición que transforma en oro todo lo que toca, pero usándola para bendecir a los necesitados y castigar la avaricia.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [
+          "Guidemar",
+          "Arlem Díaz"
+        ],
+        "relatives": [
+          "Midas (Pariente)",
+          "Eurythia (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "marduk",
+      "name": "Marduk",
+      "canonicalName": "Marduk",
+      "aliases": [
+        "El Padre de las Arenas"
+      ],
+      "articleSlug": "marduk",
+      "articleId": "art-1783382965381",
+      "hasArticle": true,
+      "category": "Dioses",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Dioses de Aeros",
+      "raceOrSpecies": "Dios",
+      "summary": "*Marduk, dios de la luz, la justicia, la curación y la magia blanca, es una deidad imponente originaria de los cielos estelares, desterrada al Plano Astral pero aún influyente entre paladines y clérigos de Aeros.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Dioses Babilónicos (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "mamon",
+      "name": "Mamon",
+      "canonicalName": "Mamon",
+      "aliases": [
+        "El señor de la codicia"
+      ],
+      "articleSlug": "mamon",
+      "articleId": "art-1783382917815",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Pecados Capitales",
+      "raceOrSpecies": "Archi Diablo",
+      "imageUrl": "/images/covers/mamon.png",
+      "summary": "*Mamón, la encarnación viviente de la codicia absoluta, es un archidiablo de cuatro metros, cubierto de oro y joyas, señor de Pandemonium. Manipula contratos, compra lealtades y corrompe almas, guiando una red de deudas y deseos que devora reinos y mortales por igual.*",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Desconocidos (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "arlon-diaz",
+      "name": "Arlon Díaz",
+      "canonicalName": "Arlon Díaz",
+      "aliases": [
+        "El borracho"
+      ],
+      "articleSlug": "arlon-diaz",
+      "articleId": "art-1783382458947",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "vivo",
+      "gender": "masculino",
+      "houseOrFamily": "Familia Díaz",
+      "raceOrSpecies": "Humano",
+      "imageUrl": "/images/covers/arlon-diaz.webp",
+      "summary": "_Arlon Díaz, un hombre marcado por el resentimiento y el peso del pasado, lucha con su herencia dracónica y su relación con su hijo Arlem._",
+      "relations": {
+        "parents": [
+          "Laila Díaz",
+          "Arkalon Díaz"
+        ],
+        "adoptiveParents": [],
+        "spouses": [
+          "Luna Díaz"
+        ],
+        "children": [
+          "Arlem Díaz"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Auros Díaz (Abuelo)",
+          "Arkadis Díaz (Abuela)",
+          "Greg Díaz (Abuelo Adoptivo)",
+          "Greta Díaz (Abuela Adoptivo)",
+          "Auros Díaz (Nieto / Descendiente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "borroko-65d44d",
+      "name": "Borroko",
+      "canonicalName": "Borroko",
+      "aliases": [],
+      "articleSlug": "borroko-65d44d",
+      "articleId": "6a1f4f4a6604bc290f65d44d",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/borroko-65d44d.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "el-caballero-del-espejo-95b1cd",
+      "name": "El Caballero del Espejo",
+      "canonicalName": "El Caballero del Espejo",
+      "aliases": [],
+      "articleSlug": "el-caballero-del-espejo-95b1cd",
+      "articleId": "6a1f4ee17f8093d2db95b1cd",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/el-caballero-del-espejo-95b1cd.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "ostrava-c9fdb2",
+      "name": "Ostrava",
+      "canonicalName": "Ostrava",
+      "aliases": [],
+      "articleSlug": "ostrava-c9fdb2",
+      "articleId": "6a1f4e3788663ac614c9fdb2",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/ostrava-c9fdb2.webp",
+      "summary": "",
+      "relations": {
+        "parents": [
+          "Rey Allant"
+        ],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "zamos-vinland-9d7ed1",
+      "name": "Zamos Vinland",
+      "canonicalName": "Zamos Vinland",
+      "aliases": [],
+      "articleSlug": "zamos-vinland-9d7ed1",
+      "articleId": "6a1f4dc1fd1a6f15209d7ed1",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/zamos-vinland-9d7ed1.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "garl-vinland-y-la-dama-astraea-ffd99b",
+      "name": "Garl Vinland y la dama Astraea",
+      "canonicalName": "Garl Vinland y la dama Astraea",
+      "aliases": [],
+      "articleSlug": "garl-vinland-y-la-dama-astraea-ffd99b",
+      "articleId": "6a1f4d90aebb51845cffd99b",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/garl-vinland-y-la-dama-astraea-ffd99b.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Astraea"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "padre-gabriel-cd1d8e",
+      "name": "Padre Gabriel",
+      "canonicalName": "Padre Gabriel",
+      "aliases": [],
+      "articleSlug": "padre-gabriel-cd1d8e",
+      "articleId": "6a1f4bed5bb0b420dacd1d8e",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/padre-gabriel-cd1d8e.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": [
+          "Sacerdote y arzobispo de la Blanca Vía (Pariente)",
+          "aliado de Caldo de Dragón (Pariente)"
+        ]
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "gran-arana-acorazada-ea7987",
+      "name": "Gran araña acorazada",
+      "canonicalName": "Gran araña acorazada",
+      "aliases": [],
+      "articleSlug": "gran-arana-acorazada-ea7987",
+      "articleId": "6a1f41e3e1d1e6e926ea7987",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/gran-arana-acorazada-ea7987.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "el-caballero-de-la-torre-30a91b",
+      "name": "El Caballero de la Torre",
+      "canonicalName": "El Caballero de la Torre",
+      "aliases": [],
+      "articleSlug": "el-caballero-de-la-torre-30a91b",
+      "articleId": "6a1f3f9f0470df5b3230a91b",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "raceOrSpecies": "Personajes",
+      "imageUrl": "/images/covers/el-caballero-de-la-torre-30a91b.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "ivan-del-valle-boreal-326760",
+      "name": "Iván del Valle Boreal",
+      "canonicalName": "Iván del Valle Boreal",
+      "aliases": [],
+      "articleSlug": "ivan-del-valle-boreal-326760",
+      "articleId": "6a15857ae8615429ff326760",
+      "hasArticle": true,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "houseOrFamily": "Serelith Moonlight",
+      "raceOrSpecies": "Humano (antes)",
+      "imageUrl": "/images/covers/ivan-del-valle-boreal-326760.webp",
+      "summary": "",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": false
+    },
+    {
+      "id": "char-mention-kartus-gestas",
+      "name": "Kartus Gestas",
+      "canonicalName": "Kartus Gestas",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [
+          "Faustus"
+        ],
+        "adoptiveParents": [],
+        "spouses": [
+          "Fara"
+        ],
+        "children": [
+          "Limeyr"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Faustus como hijo."
+    },
+    {
+      "id": "char-mention-ghazghkull-mag-uruk-thraka",
+      "name": "Ghazghkull Mag Uruk Thraka",
+      "canonicalName": "Ghazghkull Mag Uruk Thraka",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Eyegore"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Eyegore como padre."
+    },
+    {
+      "id": "char-mention-humana",
+      "name": "Humana",
+      "canonicalName": "Humana",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "femenino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Eyegore"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Eyegore como madre."
+    },
+    {
+      "id": "char-mention-dioses",
+      "name": "Dioses",
+      "canonicalName": "Dioses",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Magor como pariente.",
+      "houseOrFamily": "Panteón & Dragones"
+    },
+    {
+      "id": "char-mention-padre",
+      "name": "Padre",
+      "canonicalName": "Padre",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Kairon como pariente."
+    },
+    {
+      "id": "char-mention-madre",
+      "name": "Madre",
+      "canonicalName": "Madre",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desaparecido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Kairon como pariente."
+    },
+    {
+      "id": "char-mention-gornak",
+      "name": "Gornak",
+      "canonicalName": "Gornak",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Kaelgor Loux"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Kaelgor Loux como padre."
+    },
+    {
+      "id": "char-mention-norgra",
+      "name": "Norgra",
+      "canonicalName": "Norgra",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "femenino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Kaelgor Loux"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Kaelgor Loux como madre."
+    },
+    {
+      "id": "char-mention-object-object",
+      "name": "[object Object]",
+      "canonicalName": "[object Object]",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Herald I de Moonhaven como pariente."
+    },
+    {
+      "id": "char-mention-esposa-de-greg-diaz",
+      "name": "Esposa de Greg Díaz",
+      "canonicalName": "Esposa de Greg Díaz",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Greg Díaz"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Greg Díaz como pareja / cónyuge.",
+      "houseOrFamily": "Familia Díaz"
+    },
+    {
+      "id": "char-mention-dioses-nordicos",
+      "name": "Dioses Nordicos",
+      "canonicalName": "Dioses Nordicos",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Freya como pariente.",
+      "houseOrFamily": "Panteón & Dragones"
+    },
+    {
+      "id": "char-mention-padre-de-ferton-desconocido",
+      "name": "Padre de Ferton (Desconocido)",
+      "canonicalName": "Padre de Ferton (Desconocido)",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Ferton"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Ferton como padre."
+    },
+    {
+      "id": "char-mention-madre-de-ferton-desaparecida",
+      "name": "Madre de Ferton (Desaparecida)",
+      "canonicalName": "Madre de Ferton (Desaparecida)",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desaparecido",
+      "gender": "femenino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Ferton"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Ferton como madre."
+    },
+    {
+      "id": "char-mention-loas",
+      "name": "Loas",
+      "canonicalName": "Loas",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [
+          "El Loa Tigre"
+        ],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de El Loa Tigre como hermano.",
+      "houseOrFamily": "Panteón & Dragones"
+    },
+    {
+      "id": "char-mention-gorm",
+      "name": "Gorm",
+      "canonicalName": "Gorm",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de El Loa Tigre como pariente.",
+      "houseOrFamily": "Panteón & Dragones"
+    },
+    {
+      "id": "char-mention-padre-de-edacorn-fallecido",
+      "name": "Padre de Edacorn (Fallecido)",
+      "canonicalName": "Padre de Edacorn (Fallecido)",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "fallecido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Edacorn"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Edacorn como padre."
+    },
+    {
+      "id": "char-mention-esmeralizadores",
+      "name": "Esmeralizadores",
+      "canonicalName": "Esmeralizadores",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Edacorn como pariente."
+    },
+    {
+      "id": "char-mention-fafnir",
+      "name": "Fafnir",
+      "canonicalName": "Fafnir",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Edacorn como pariente.",
+      "houseOrFamily": "Panteón & Dragones"
+    },
+    {
+      "id": "char-mention-alexxtros",
+      "name": "Alexxtros",
+      "canonicalName": "Alexxtros",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Drakaris"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Drakaris como pareja / cónyuge."
+    },
+    {
+      "id": "char-mention-auros",
+      "name": "Auros",
+      "canonicalName": "Auros",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Arkalon Díaz"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Drakaris como abuelo.",
+      "houseOrFamily": "Familia Díaz"
+    },
+    {
+      "id": "char-mention-arkadis",
+      "name": "Arkadis",
+      "canonicalName": "Arkadis",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "femenino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Arkalon Díaz"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Drakaris como abuela.",
+      "houseOrFamily": "Familia Díaz"
+    },
+    {
+      "id": "char-mention-drakara",
+      "name": "Drakara",
+      "canonicalName": "Drakara",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Drakaris como pariente.",
+      "houseOrFamily": "Familia Díaz"
+    },
+    {
+      "id": "char-mention-lyrian",
+      "name": "Lyrian",
+      "canonicalName": "Lyrian",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Drakaris como pariente."
+    },
+    {
+      "id": "char-mention-consejo-omega",
+      "name": "Consejo Omega",
+      "canonicalName": "Consejo Omega",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Chemos como pariente."
+    },
+    {
+      "id": "char-mention-abuela",
+      "name": "Abuela",
+      "canonicalName": "Abuela",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "femenino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Barled como abuela."
+    },
+    {
+      "id": "char-mention-los-9-infiernos",
+      "name": "Los 9 Infiernos",
+      "canonicalName": "Los 9 Infiernos",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Asmodeo como pariente."
+    },
+    {
+      "id": "char-mention-arlem-diaz",
+      "name": "Arlem Díaz",
+      "canonicalName": "Arlem Díaz",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [
+          "Arlon Díaz"
+        ],
+        "adoptiveParents": [],
+        "spouses": [
+          "Aeliana"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [
+          "Midas, Diosa del comercio"
+        ],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Arkalon Díaz como nieto / descendiente.",
+      "houseOrFamily": "Familia Díaz"
+    },
+    {
+      "id": "char-mention-gilda-bravacobre",
+      "name": "Gilda Bravacobre",
+      "canonicalName": "Gilda Bravacobre",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Thorin Loux"
+        ],
+        "children": [
+          "Thorfin Loux"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Thorin Loux como pareja.",
+      "houseOrFamily": "Casa Loux"
+    },
+    {
+      "id": "char-mention-brynhildr-piedranegra",
+      "name": "Brynhildr Piedranegra",
+      "canonicalName": "Brynhildr Piedranegra",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Thorin Loux como pariente.",
+      "houseOrFamily": "Casa Loux"
+    },
+    {
+      "id": "char-mention-pecados-capitales",
+      "name": "Pecados Capitales",
+      "canonicalName": "Pecados Capitales",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Rey Redcap como pariente."
+    },
+    {
+      "id": "char-mention-tribu-de-goliats-de-la-gran-nada",
+      "name": "Tribu de Goliats de La Gran Nada",
+      "canonicalName": "Tribu de Goliats de La Gran Nada",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Ragnavaldr como pariente."
+    },
+    {
+      "id": "char-mention-bestias-del-apocalipsis",
+      "name": "Bestias del Apocalipsis",
+      "canonicalName": "Bestias del Apocalipsis",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Ragnarok como tío / tía."
+    },
+    {
+      "id": "char-mention-belial",
+      "name": "Belial",
+      "canonicalName": "Belial",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Ragnarok como creador / progenitor místico."
+    },
+    {
+      "id": "char-mention-familia-loux",
+      "name": "Familia Loux",
+      "canonicalName": "Familia Loux",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Pepe Loux como pariente.",
+      "houseOrFamily": "Casa Loux"
+    },
+    {
+      "id": "char-mention-desconocidos",
+      "name": "Desconocidos",
+      "canonicalName": "Desconocidos",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Mimir como pariente."
+    },
+    {
+      "id": "char-mention-guidemar",
+      "name": "Guidemar",
+      "canonicalName": "Guidemar",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [
+          "Midas, Diosa del comercio"
+        ],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Midas, Diosa del comercio como hermano."
+    },
+    {
+      "id": "char-mention-midas",
+      "name": "Midas",
+      "canonicalName": "Midas",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Midas, Diosa del comercio como pariente."
+    },
+    {
+      "id": "char-mention-eurythia",
+      "name": "Eurythia",
+      "canonicalName": "Eurythia",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Midas, Diosa del comercio como pariente."
+    },
+    {
+      "id": "char-mention-dioses-babilonicos",
+      "name": "Dioses Babilónicos",
+      "canonicalName": "Dioses Babilónicos",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Marduk como pariente.",
+      "houseOrFamily": "Panteón & Dragones"
+    },
+    {
+      "id": "char-mention-arkadis-diaz",
+      "name": "Arkadis Díaz",
+      "canonicalName": "Arkadis Díaz",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "femenino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Arlon Díaz como abuela.",
+      "houseOrFamily": "Familia Díaz"
+    },
+    {
+      "id": "char-mention-rey-allant",
+      "name": "Rey Allant",
+      "canonicalName": "Rey Allant",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "masculino",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [
+          "Ostrava"
+        ],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Ostrava como padre."
+    },
+    {
+      "id": "char-mention-astraea",
+      "name": "Astraea",
+      "canonicalName": "Astraea",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [
+          "Garl Vinland y la dama Astraea"
+        ],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Garl Vinland y la dama Astraea como pareja / cónyuge."
+    },
+    {
+      "id": "char-mention-sacerdote-y-arzobispo-de-la-blanca-via",
+      "name": "Sacerdote y arzobispo de la Blanca Vía",
+      "canonicalName": "Sacerdote y arzobispo de la Blanca Vía",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Padre Gabriel como pariente."
+    },
+    {
+      "id": "char-mention-aliado-de-caldo-de-dragon",
+      "name": "aliado de Caldo de Dragón",
+      "canonicalName": "aliado de Caldo de Dragón",
+      "hasArticle": false,
+      "category": "Personajes",
+      "status": "desconocido",
+      "gender": "desconocido",
+      "relations": {
+        "parents": [],
+        "adoptiveParents": [],
+        "spouses": [],
+        "children": [],
+        "adoptiveChildren": [],
+        "siblings": [],
+        "relatives": []
+      },
+      "isAnonymousOrMentionedOnly": true,
+      "summary": "Personaje mencionado en las crónicas de Padre Gabriel como pariente.",
+      "houseOrFamily": "Panteón & Dragones"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-faustus-fara-hijo",
+      "fromId": "faustus",
+      "fromName": "Faustus",
+      "toId": "fara",
+      "toName": "Fara",
+      "relationType": "hijo",
+      "relationLabel": "Hijo",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "faustus",
+      "evidenceArticleTitle": "Faustus"
+    },
+    {
+      "id": "edge-faustus-char-mention-kartus-gestas-hijo",
+      "fromId": "faustus",
+      "fromName": "Faustus",
+      "toId": "char-mention-kartus-gestas",
+      "toName": "Kartus Gestas",
+      "relationType": "hijo",
+      "relationLabel": "Hijo",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "faustus",
+      "evidenceArticleTitle": "Faustus"
+    },
+    {
+      "id": "edge-fara-char-mention-kartus-gestas-pareja",
+      "fromId": "fara",
+      "fromName": "Fara",
+      "toId": "char-mention-kartus-gestas",
+      "toName": "Kartus Gestas",
+      "relationType": "pareja",
+      "relationLabel": "Pareja / Cónyuge",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "fara",
+      "evidenceArticleTitle": "Fara"
+    },
+    {
+      "id": "edge-fara-limeyr-hijo",
+      "fromId": "fara",
+      "fromName": "Fara",
+      "toId": "limeyr",
+      "toName": "Limeyr",
+      "relationType": "hijo",
+      "relationLabel": "Hijo",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "fara",
+      "evidenceArticleTitle": "Fara"
+    },
+    {
+      "id": "edge-limeyr-char-mention-kartus-gestas-padre",
+      "fromId": "limeyr",
+      "fromName": "Limeyr",
+      "toId": "char-mention-kartus-gestas",
+      "toName": "Kartus Gestas",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "limeyr",
+      "evidenceArticleTitle": "Limeyr"
+    },
+    {
+      "id": "edge-limeyr-fara-madre",
+      "fromId": "limeyr",
+      "fromName": "Limeyr",
+      "toId": "fara",
+      "toName": "Fara",
+      "relationType": "madre",
+      "relationLabel": "Madre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "limeyr",
+      "evidenceArticleTitle": "Limeyr"
+    },
+    {
+      "id": "edge-eyegore-mrdrh1ob-char-mention-ghazghkull-mag-uruk-thraka-padre",
+      "fromId": "eyegore-mrdrh1ob",
+      "fromName": "Eyegore",
+      "toId": "char-mention-ghazghkull-mag-uruk-thraka",
+      "toName": "Ghazghkull Mag Uruk Thraka",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "eyegore-mrdrh1ob",
+      "evidenceArticleTitle": "Eyegore"
+    },
+    {
+      "id": "edge-eyegore-mrdrh1ob-char-mention-humana-madre",
+      "fromId": "eyegore-mrdrh1ob",
+      "fromName": "Eyegore",
+      "toId": "char-mention-humana",
+      "toName": "Humana",
+      "relationType": "madre",
+      "relationLabel": "Madre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "eyegore-mrdrh1ob",
+      "evidenceArticleTitle": "Eyegore"
+    },
+    {
+      "id": "edge-magor-char-mention-dioses-pariente",
+      "fromId": "magor",
+      "fromName": "Magor",
+      "toId": "char-mention-dioses",
+      "toName": "Dioses",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "magor",
+      "evidenceArticleTitle": "Magor"
+    },
+    {
+      "id": "edge-laila-diaz-arlon-diaz-hijo",
+      "fromId": "laila-diaz",
+      "fromName": "Laila Díaz",
+      "toId": "arlon-diaz",
+      "toName": "Arlon Díaz",
+      "relationType": "hijo",
+      "relationLabel": "Hijo",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "laila-diaz",
+      "evidenceArticleTitle": "Laila Díaz"
+    },
+    {
+      "id": "edge-laila-diaz-auros-diaz-nieto",
+      "fromId": "laila-diaz",
+      "fromName": "Laila Díaz",
+      "toId": "auros-diaz",
+      "toName": "Auros Díaz",
+      "relationType": "nieto",
+      "relationLabel": "Nieto / Descendiente",
+      "isAdoptive": false,
+      "notes": "nieto",
+      "evidenceArticleSlug": "laila-diaz",
+      "evidenceArticleTitle": "Laila Díaz"
+    },
+    {
+      "id": "edge-kairon-char-mention-padre-pariente",
+      "fromId": "kairon",
+      "fromName": "Kairon",
+      "toId": "char-mention-padre",
+      "toName": "Padre",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "fallecido",
+      "evidenceArticleSlug": "kairon",
+      "evidenceArticleTitle": "Kairon"
+    },
+    {
+      "id": "edge-kairon-char-mention-madre-pariente",
+      "fromId": "kairon",
+      "fromName": "Kairon",
+      "toId": "char-mention-madre",
+      "toName": "Madre",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "desaparecida",
+      "evidenceArticleSlug": "kairon",
+      "evidenceArticleTitle": "Kairon"
+    },
+    {
+      "id": "edge-kaelgor-loux-char-mention-gornak-padre",
+      "fromId": "kaelgor-loux",
+      "fromName": "Kaelgor Loux",
+      "toId": "char-mention-gornak",
+      "toName": "Gornak",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "kaelgor-loux",
+      "evidenceArticleTitle": "Kaelgor Loux"
+    },
+    {
+      "id": "edge-kaelgor-loux-char-mention-norgra-madre",
+      "fromId": "kaelgor-loux",
+      "fromName": "Kaelgor Loux",
+      "toId": "char-mention-norgra",
+      "toName": "Norgra",
+      "relationType": "madre",
+      "relationLabel": "Madre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "kaelgor-loux",
+      "evidenceArticleTitle": "Kaelgor Loux"
+    },
+    {
+      "id": "edge-kaelgor-loux-thorfin-loux-hijo",
+      "fromId": "kaelgor-loux",
+      "fromName": "Kaelgor Loux",
+      "toId": "thorfin-loux",
+      "toName": "Thorfin Loux",
+      "relationType": "hijo",
+      "relationLabel": "Hijo",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "kaelgor-loux",
+      "evidenceArticleTitle": "Kaelgor Loux"
+    },
+    {
+      "id": "edge-herald-i-de-moonhaven-char-mention-object-object-pariente",
+      "fromId": "herald-i-de-moonhaven",
+      "fromName": "Herald I de Moonhaven",
+      "toId": "char-mention-object-object",
+      "toName": "[object Object]",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "herald-i-de-moonhaven",
+      "evidenceArticleTitle": "Herald I de Moonhaven"
+    },
+    {
+      "id": "edge-havrik-deez-chispo-deez-hijo",
+      "fromId": "havrik-deez",
+      "fromName": "Havrik Deez",
+      "toId": "chispo-deez",
+      "toName": "Chispo Deez",
+      "relationType": "hijo",
+      "relationLabel": "Hijo",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "havrik-deez",
+      "evidenceArticleTitle": "Havrik Deez"
+    },
+    {
+      "id": "edge-greg-diaz-char-mention-esposa-de-greg-diaz-pareja",
+      "fromId": "greg-diaz",
+      "fromName": "Greg Díaz",
+      "toId": "char-mention-esposa-de-greg-diaz",
+      "toName": "Esposa de Greg Díaz",
+      "relationType": "pareja",
+      "relationLabel": "Pareja / Cónyuge",
+      "isAdoptive": false,
+      "notes": "Fallecida",
+      "evidenceArticleSlug": "greg-diaz",
+      "evidenceArticleTitle": "Greg Díaz"
+    },
+    {
+      "id": "edge-greg-diaz-arlon-diaz-nieto",
+      "fromId": "greg-diaz",
+      "fromName": "Greg Díaz",
+      "toId": "arlon-diaz",
+      "toName": "Arlon Díaz",
+      "relationType": "nieto",
+      "relationLabel": "Nieto / Descendiente",
+      "isAdoptive": true,
+      "notes": "Nieto Adoptivo",
+      "evidenceArticleSlug": "greg-diaz",
+      "evidenceArticleTitle": "Greg Díaz"
+    },
+    {
+      "id": "edge-freya-char-mention-dioses-nordicos-pariente",
+      "fromId": "freya",
+      "fromName": "Freya",
+      "toId": "char-mention-dioses-nordicos",
+      "toName": "Dioses Nordicos",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "freya",
+      "evidenceArticleTitle": "Freya"
+    },
+    {
+      "id": "edge-ferton-char-mention-padre-de-ferton-desconocido-padre",
+      "fromId": "ferton",
+      "fromName": "Ferton",
+      "toId": "char-mention-padre-de-ferton-desconocido",
+      "toName": "Padre de Ferton (Desconocido)",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "notes": "Desconocido",
+      "evidenceArticleSlug": "ferton",
+      "evidenceArticleTitle": "Ferton"
+    },
+    {
+      "id": "edge-ferton-char-mention-madre-de-ferton-desaparecida-madre",
+      "fromId": "ferton",
+      "fromName": "Ferton",
+      "toId": "char-mention-madre-de-ferton-desaparecida",
+      "toName": "Madre de Ferton (Desaparecida)",
+      "relationType": "madre",
+      "relationLabel": "Madre",
+      "isAdoptive": false,
+      "notes": "Desaparecida",
+      "evidenceArticleSlug": "ferton",
+      "evidenceArticleTitle": "Ferton"
+    },
+    {
+      "id": "edge-el-loa-tigre-char-mention-loas-hermano",
+      "fromId": "el-loa-tigre",
+      "fromName": "El Loa Tigre",
+      "toId": "char-mention-loas",
+      "toName": "Loas",
+      "relationType": "hermano",
+      "relationLabel": "Hermano",
+      "isAdoptive": false,
+      "notes": "Hermanos",
+      "evidenceArticleSlug": "el-loa-tigre",
+      "evidenceArticleTitle": "El Loa Tigre"
+    },
+    {
+      "id": "edge-el-loa-tigre-char-mention-gorm-pariente",
+      "fromId": "el-loa-tigre",
+      "fromName": "El Loa Tigre",
+      "toId": "char-mention-gorm",
+      "toName": "Gorm",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "Padre",
+      "evidenceArticleSlug": "el-loa-tigre",
+      "evidenceArticleTitle": "El Loa Tigre"
+    },
+    {
+      "id": "edge-edacorn-char-mention-padre-de-edacorn-fallecido-padre",
+      "fromId": "edacorn",
+      "fromName": "Edacorn",
+      "toId": "char-mention-padre-de-edacorn-fallecido",
+      "toName": "Padre de Edacorn (Fallecido)",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "notes": "Fallecido",
+      "evidenceArticleSlug": "edacorn",
+      "evidenceArticleTitle": "Edacorn"
+    },
+    {
+      "id": "edge-edacorn-char-mention-esmeralizadores-pariente",
+      "fromId": "edacorn",
+      "fromName": "Edacorn",
+      "toId": "char-mention-esmeralizadores",
+      "toName": "Esmeralizadores",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "edacorn",
+      "evidenceArticleTitle": "Edacorn"
+    },
+    {
+      "id": "edge-edacorn-char-mention-fafnir-pariente",
+      "fromId": "edacorn",
+      "fromName": "Edacorn",
+      "toId": "char-mention-fafnir",
+      "toName": "Fafnir",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "edacorn",
+      "evidenceArticleTitle": "Edacorn"
+    },
+    {
+      "id": "edge-druunia-deez-chispo-deez-pariente",
+      "fromId": "druunia-deez",
+      "fromName": "Druunia Deez",
+      "toId": "chispo-deez",
+      "toName": "Chispo Deez",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "hijo",
+      "evidenceArticleSlug": "druunia-deez",
+      "evidenceArticleTitle": "Druunia Deez"
+    },
+    {
+      "id": "edge-drakaris-char-mention-alexxtros-pareja",
+      "fromId": "drakaris",
+      "fromName": "Drakaris",
+      "toId": "char-mention-alexxtros",
+      "toName": "Alexxtros",
+      "relationType": "pareja",
+      "relationLabel": "Pareja / Cónyuge",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "drakaris",
+      "evidenceArticleTitle": "Drakaris"
+    },
+    {
+      "id": "edge-drakaris-char-mention-auros-abuelo",
+      "fromId": "drakaris",
+      "fromName": "Drakaris",
+      "toId": "char-mention-auros",
+      "toName": "Auros",
+      "relationType": "abuelo",
+      "relationLabel": "Abuelo",
+      "isAdoptive": false,
+      "notes": "Tio abuelo",
+      "evidenceArticleSlug": "drakaris",
+      "evidenceArticleTitle": "Drakaris"
+    },
+    {
+      "id": "edge-drakaris-char-mention-arkadis-abuela",
+      "fromId": "drakaris",
+      "fromName": "Drakaris",
+      "toId": "char-mention-arkadis",
+      "toName": "Arkadis",
+      "relationType": "abuela",
+      "relationLabel": "Abuela",
+      "isAdoptive": false,
+      "notes": "Tia abuela",
+      "evidenceArticleSlug": "drakaris",
+      "evidenceArticleTitle": "Drakaris"
+    },
+    {
+      "id": "edge-drakaris-auros-diaz-primo",
+      "fromId": "drakaris",
+      "fromName": "Drakaris",
+      "toId": "auros-diaz",
+      "toName": "Auros Díaz",
+      "relationType": "primo",
+      "relationLabel": "Primo / Prima",
+      "isAdoptive": false,
+      "notes": "Primo",
+      "evidenceArticleSlug": "drakaris",
+      "evidenceArticleTitle": "Drakaris"
+    },
+    {
+      "id": "edge-drakaris-char-mention-drakara-pariente",
+      "fromId": "drakaris",
+      "fromName": "Drakaris",
+      "toId": "char-mention-drakara",
+      "toName": "Drakara",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "Madre",
+      "evidenceArticleSlug": "drakaris",
+      "evidenceArticleTitle": "Drakaris"
+    },
+    {
+      "id": "edge-drakaris-char-mention-lyrian-pariente",
+      "fromId": "drakaris",
+      "fromName": "Drakaris",
+      "toId": "char-mention-lyrian",
+      "toName": "Lyrian",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "Padre",
+      "evidenceArticleSlug": "drakaris",
+      "evidenceArticleTitle": "Drakaris"
+    },
+    {
+      "id": "edge-chemos-char-mention-consejo-omega-pariente",
+      "fromId": "chemos",
+      "fromName": "Chemos",
+      "toId": "char-mention-consejo-omega",
+      "toName": "Consejo Omega",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "chemos",
+      "evidenceArticleTitle": "Chemos"
+    },
+    {
+      "id": "edge-barled-char-mention-abuela-abuela",
+      "fromId": "barled",
+      "fromName": "Barled",
+      "toId": "char-mention-abuela",
+      "toName": "Abuela",
+      "relationType": "abuela",
+      "relationLabel": "Abuela",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "barled",
+      "evidenceArticleTitle": "Barled"
+    },
+    {
+      "id": "edge-asmodeo-char-mention-los-9-infiernos-pariente",
+      "fromId": "asmodeo",
+      "fromName": "Asmodeo",
+      "toId": "char-mention-los-9-infiernos",
+      "toName": "Los 9 Infiernos",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "asmodeo",
+      "evidenceArticleTitle": "Asmodeo"
+    },
+    {
+      "id": "edge-arkalon-diaz-char-mention-auros-padre",
+      "fromId": "arkalon-diaz",
+      "fromName": "Arkalon Díaz",
+      "toId": "char-mention-auros",
+      "toName": "Auros",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "arkalon-diaz",
+      "evidenceArticleTitle": "Arkalon Díaz"
+    },
+    {
+      "id": "edge-arkalon-diaz-laila-diaz-madre",
+      "fromId": "arkalon-diaz",
+      "fromName": "Arkalon Díaz",
+      "toId": "laila-diaz",
+      "toName": "Laila Díaz",
+      "relationType": "madre",
+      "relationLabel": "Madre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "arkalon-diaz",
+      "evidenceArticleTitle": "Arkalon Díaz"
+    },
+    {
+      "id": "edge-arkalon-diaz-char-mention-arkadis-pareja",
+      "fromId": "arkalon-diaz",
+      "fromName": "Arkalon Díaz",
+      "toId": "char-mention-arkadis",
+      "toName": "Arkadis",
+      "relationType": "pareja",
+      "relationLabel": "Pareja / Cónyuge",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "arkalon-diaz",
+      "evidenceArticleTitle": "Arkalon Díaz"
+    },
+    {
+      "id": "edge-arkalon-diaz-arlon-diaz-hijo",
+      "fromId": "arkalon-diaz",
+      "fromName": "Arkalon Díaz",
+      "toId": "arlon-diaz",
+      "toName": "Arlon Díaz",
+      "relationType": "hijo",
+      "relationLabel": "Hijo",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "arkalon-diaz",
+      "evidenceArticleTitle": "Arkalon Díaz"
+    },
+    {
+      "id": "edge-arkalon-diaz-char-mention-arlem-diaz-nieto",
+      "fromId": "arkalon-diaz",
+      "fromName": "Arkalon Díaz",
+      "toId": "char-mention-arlem-diaz",
+      "toName": "Arlem Díaz",
+      "relationType": "nieto",
+      "relationLabel": "Nieto / Descendiente",
+      "isAdoptive": false,
+      "notes": "Nieto",
+      "evidenceArticleSlug": "arkalon-diaz",
+      "evidenceArticleTitle": "Arkalon Díaz"
+    },
+    {
+      "id": "edge-aeliana-char-mention-arlem-diaz-pareja",
+      "fromId": "aeliana",
+      "fromName": "Aeliana",
+      "toId": "char-mention-arlem-diaz",
+      "toName": "Arlem Díaz",
+      "relationType": "pareja",
+      "relationLabel": "Pareja",
+      "isAdoptive": false,
+      "notes": "Pareja / Salvador",
+      "evidenceArticleSlug": "aeliana",
+      "evidenceArticleTitle": "Aeliana"
+    },
+    {
+      "id": "edge-aeliana-auros-diaz-pariente",
+      "fromId": "aeliana",
+      "fromName": "Aeliana",
+      "toId": "auros-diaz",
+      "toName": "Auros Díaz",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "Hijo",
+      "evidenceArticleSlug": "aeliana",
+      "evidenceArticleTitle": "Aeliana"
+    },
+    {
+      "id": "edge-umberlee-char-mention-consejo-omega-pariente",
+      "fromId": "umberlee",
+      "fromName": "Umberlee",
+      "toId": "char-mention-consejo-omega",
+      "toName": "Consejo Omega",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "umberlee",
+      "evidenceArticleTitle": "Umberlee"
+    },
+    {
+      "id": "edge-thorin-loux-char-mention-gilda-bravacobre-pareja",
+      "fromId": "thorin-loux",
+      "fromName": "Thorin Loux",
+      "toId": "char-mention-gilda-bravacobre",
+      "toName": "Gilda Bravacobre",
+      "relationType": "pareja",
+      "relationLabel": "Pareja",
+      "isAdoptive": false,
+      "notes": "esposa",
+      "evidenceArticleSlug": "thorin-loux",
+      "evidenceArticleTitle": "Thorin Loux"
+    },
+    {
+      "id": "edge-thorin-loux-thorfin-loux-pariente",
+      "fromId": "thorin-loux",
+      "fromName": "Thorin Loux",
+      "toId": "thorfin-loux",
+      "toName": "Thorfin Loux",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "hijo legítimo",
+      "evidenceArticleSlug": "thorin-loux",
+      "evidenceArticleTitle": "Thorin Loux"
+    },
+    {
+      "id": "edge-thorin-loux-leonard-loux-pariente",
+      "fromId": "thorin-loux",
+      "fromName": "Thorin Loux",
+      "toId": "leonard-loux",
+      "toName": "Leonard Loux",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "hijo bastardo",
+      "evidenceArticleSlug": "thorin-loux",
+      "evidenceArticleTitle": "Thorin Loux"
+    },
+    {
+      "id": "edge-thorin-loux-char-mention-brynhildr-piedranegra-pariente",
+      "fromId": "thorin-loux",
+      "fromName": "Thorin Loux",
+      "toId": "char-mention-brynhildr-piedranegra",
+      "toName": "Brynhildr Piedranegra",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "compañera/relación extramarital",
+      "evidenceArticleSlug": "thorin-loux",
+      "evidenceArticleTitle": "Thorin Loux"
+    },
+    {
+      "id": "edge-thorfin-loux-thorin-loux-padre",
+      "fromId": "thorfin-loux",
+      "fromName": "Thorfin Loux",
+      "toId": "thorin-loux",
+      "toName": "Thorin Loux",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "thorfin-loux",
+      "evidenceArticleTitle": "Thorfin Loux"
+    },
+    {
+      "id": "edge-thorfin-loux-char-mention-gilda-bravacobre-madre",
+      "fromId": "thorfin-loux",
+      "fromName": "Thorfin Loux",
+      "toId": "char-mention-gilda-bravacobre",
+      "toName": "Gilda Bravacobre",
+      "relationType": "madre",
+      "relationLabel": "Madre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "thorfin-loux",
+      "evidenceArticleTitle": "Thorfin Loux"
+    },
+    {
+      "id": "edge-rey-redcap-char-mention-pecados-capitales-pariente",
+      "fromId": "rey-redcap",
+      "fromName": "Rey Redcap",
+      "toId": "char-mention-pecados-capitales",
+      "toName": "Pecados Capitales",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "rey-redcap",
+      "evidenceArticleTitle": "Rey Redcap"
+    },
+    {
+      "id": "edge-raxxar-char-mention-auros-abuelo",
+      "fromId": "raxxar",
+      "fromName": "Raxxar",
+      "toId": "char-mention-auros",
+      "toName": "Auros",
+      "relationType": "abuelo",
+      "relationLabel": "Abuelo",
+      "isAdoptive": false,
+      "notes": "Abuelo",
+      "evidenceArticleSlug": "raxxar",
+      "evidenceArticleTitle": "Raxxar"
+    },
+    {
+      "id": "edge-raxxar-char-mention-arkadis-abuela",
+      "fromId": "raxxar",
+      "fromName": "Raxxar",
+      "toId": "char-mention-arkadis",
+      "toName": "Arkadis",
+      "relationType": "abuela",
+      "relationLabel": "Abuela",
+      "isAdoptive": false,
+      "notes": "Abuela",
+      "evidenceArticleSlug": "raxxar",
+      "evidenceArticleTitle": "Raxxar"
+    },
+    {
+      "id": "edge-ragnavaldr-char-mention-tribu-de-goliats-de-la-gran-nada-pariente",
+      "fromId": "ragnavaldr",
+      "fromName": "Ragnavaldr",
+      "toId": "char-mention-tribu-de-goliats-de-la-gran-nada",
+      "toName": "Tribu de Goliats de La Gran Nada",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "ragnavaldr",
+      "evidenceArticleTitle": "Ragnavaldr"
+    },
+    {
+      "id": "edge-ragnarok-char-mention-bestias-del-apocalipsis-tio",
+      "fromId": "ragnarok",
+      "fromName": "Ragnarok",
+      "toId": "char-mention-bestias-del-apocalipsis",
+      "toName": "Bestias del Apocalipsis",
+      "relationType": "tio",
+      "relationLabel": "Tío / Tía",
+      "isAdoptive": false,
+      "notes": "comparten origen con Belial",
+      "evidenceArticleSlug": "ragnarok",
+      "evidenceArticleTitle": "Ragnarok"
+    },
+    {
+      "id": "edge-ragnarok-char-mention-belial-creador",
+      "fromId": "ragnarok",
+      "fromName": "Ragnarok",
+      "toId": "char-mention-belial",
+      "toName": "Belial",
+      "relationType": "creador",
+      "relationLabel": "Creador / Progenitor Místico",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "ragnarok",
+      "evidenceArticleTitle": "Ragnarok"
+    },
+    {
+      "id": "edge-pepe-loux-char-mention-familia-loux-pariente",
+      "fromId": "pepe-loux",
+      "fromName": "Pepe Loux",
+      "toId": "char-mention-familia-loux",
+      "toName": "Familia Loux",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "pepe-loux",
+      "evidenceArticleTitle": "Pepe Loux"
+    },
+    {
+      "id": "edge-nuitari-char-mention-consejo-omega-pariente",
+      "fromId": "nuitari",
+      "fromName": "Nuitari",
+      "toId": "char-mention-consejo-omega",
+      "toName": "Consejo Omega",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "nuitari",
+      "evidenceArticleTitle": "Nuitari"
+    },
+    {
+      "id": "edge-morgion-char-mention-consejo-omega-pariente",
+      "fromId": "morgion",
+      "fromName": "Morgion",
+      "toId": "char-mention-consejo-omega",
+      "toName": "Consejo Omega",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "morgion",
+      "evidenceArticleTitle": "Morgion"
+    },
+    {
+      "id": "edge-mimir-char-mention-desconocidos-pariente",
+      "fromId": "mimir",
+      "fromName": "Mimir",
+      "toId": "char-mention-desconocidos",
+      "toName": "Desconocidos",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "mimir",
+      "evidenceArticleTitle": "Mimir"
+    },
+    {
+      "id": "edge-midas-diosa-del-comercio-char-mention-guidemar-hermano",
+      "fromId": "midas-diosa-del-comercio",
+      "fromName": "Midas, Diosa del comercio",
+      "toId": "char-mention-guidemar",
+      "toName": "Guidemar",
+      "relationType": "hermano",
+      "relationLabel": "Hermano",
+      "isAdoptive": false,
+      "notes": "Hermano",
+      "evidenceArticleSlug": "midas-diosa-del-comercio",
+      "evidenceArticleTitle": "Midas, Diosa del comercio"
+    },
+    {
+      "id": "edge-midas-diosa-del-comercio-char-mention-midas-pariente",
+      "fromId": "midas-diosa-del-comercio",
+      "fromName": "Midas, Diosa del comercio",
+      "toId": "char-mention-midas",
+      "toName": "Midas",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "Padre",
+      "evidenceArticleSlug": "midas-diosa-del-comercio",
+      "evidenceArticleTitle": "Midas, Diosa del comercio"
+    },
+    {
+      "id": "edge-midas-diosa-del-comercio-char-mention-eurythia-pariente",
+      "fromId": "midas-diosa-del-comercio",
+      "fromName": "Midas, Diosa del comercio",
+      "toId": "char-mention-eurythia",
+      "toName": "Eurythia",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "notes": "Madre",
+      "evidenceArticleSlug": "midas-diosa-del-comercio",
+      "evidenceArticleTitle": "Midas, Diosa del comercio"
+    },
+    {
+      "id": "edge-midas-diosa-del-comercio-char-mention-arlem-diaz-hermano",
+      "fromId": "midas-diosa-del-comercio",
+      "fromName": "Midas, Diosa del comercio",
+      "toId": "char-mention-arlem-diaz",
+      "toName": "Arlem Díaz",
+      "relationType": "hermano",
+      "relationLabel": "Hermano",
+      "isAdoptive": false,
+      "notes": "Descendiente de su hermano",
+      "evidenceArticleSlug": "midas-diosa-del-comercio",
+      "evidenceArticleTitle": "Midas, Diosa del comercio"
+    },
+    {
+      "id": "edge-marduk-char-mention-dioses-babilonicos-pariente",
+      "fromId": "marduk",
+      "fromName": "Marduk",
+      "toId": "char-mention-dioses-babilonicos",
+      "toName": "Dioses Babilónicos",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "marduk",
+      "evidenceArticleTitle": "Marduk"
+    },
+    {
+      "id": "edge-mamon-char-mention-desconocidos-pariente",
+      "fromId": "mamon",
+      "fromName": "Mamon",
+      "toId": "char-mention-desconocidos",
+      "toName": "Desconocidos",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "mamon",
+      "evidenceArticleTitle": "Mamon"
+    },
+    {
+      "id": "edge-arlon-diaz-arkalon-diaz-padre",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "arkalon-diaz",
+      "toName": "Arkalon Díaz",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-arlon-diaz-laila-diaz-madre",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "laila-diaz",
+      "toName": "Laila Díaz",
+      "relationType": "madre",
+      "relationLabel": "Madre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-arlon-diaz-luna-diaz-pareja",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "luna-diaz",
+      "toName": "Luna Díaz",
+      "relationType": "pareja",
+      "relationLabel": "Pareja / Cónyuge",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-arlon-diaz-char-mention-arlem-diaz-hijo",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "char-mention-arlem-diaz",
+      "toName": "Arlem Díaz",
+      "relationType": "hijo",
+      "relationLabel": "Hijo",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-arlon-diaz-auros-diaz-abuelo",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "auros-diaz",
+      "toName": "Auros Díaz",
+      "relationType": "abuelo",
+      "relationLabel": "Abuelo",
+      "isAdoptive": false,
+      "notes": "Abuelo",
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-arlon-diaz-char-mention-arkadis-diaz-abuela",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "char-mention-arkadis-diaz",
+      "toName": "Arkadis Díaz",
+      "relationType": "abuela",
+      "relationLabel": "Abuela",
+      "isAdoptive": false,
+      "notes": "Abuela",
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-arlon-diaz-greg-diaz-abuelo",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "greg-diaz",
+      "toName": "Greg Díaz",
+      "relationType": "abuelo",
+      "relationLabel": "Abuelo Adoptivo",
+      "isAdoptive": true,
+      "notes": "Abuelo Adoptivo",
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-arlon-diaz-greta-diaz-abuela",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "greta-diaz",
+      "toName": "Greta Díaz",
+      "relationType": "abuela",
+      "relationLabel": "Abuela Adoptivo",
+      "isAdoptive": true,
+      "notes": "Abuela Adoptiva",
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-arlon-diaz-auros-diaz-nieto",
+      "fromId": "arlon-diaz",
+      "fromName": "Arlon Díaz",
+      "toId": "auros-diaz",
+      "toName": "Auros Díaz",
+      "relationType": "nieto",
+      "relationLabel": "Nieto / Descendiente",
+      "isAdoptive": false,
+      "notes": "Nieto",
+      "evidenceArticleSlug": "arlon-diaz",
+      "evidenceArticleTitle": "Arlon Díaz"
+    },
+    {
+      "id": "edge-ostrava-c9fdb2-char-mention-rey-allant-padre",
+      "fromId": "ostrava-c9fdb2",
+      "fromName": "Ostrava",
+      "toId": "char-mention-rey-allant",
+      "toName": "Rey Allant",
+      "relationType": "padre",
+      "relationLabel": "Padre",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "ostrava-c9fdb2",
+      "evidenceArticleTitle": "Ostrava"
+    },
+    {
+      "id": "edge-garl-vinland-y-la-dama-astraea-ffd99b-char-mention-astraea-pareja",
+      "fromId": "garl-vinland-y-la-dama-astraea-ffd99b",
+      "fromName": "Garl Vinland y la dama Astraea",
+      "toId": "char-mention-astraea",
+      "toName": "Astraea",
+      "relationType": "pareja",
+      "relationLabel": "Pareja / Cónyuge",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "garl-vinland-y-la-dama-astraea-ffd99b",
+      "evidenceArticleTitle": "Garl Vinland y la dama Astraea"
+    },
+    {
+      "id": "edge-padre-gabriel-cd1d8e-char-mention-sacerdote-y-arzobispo-de-la-blanca-via-pariente",
+      "fromId": "padre-gabriel-cd1d8e",
+      "fromName": "Padre Gabriel",
+      "toId": "char-mention-sacerdote-y-arzobispo-de-la-blanca-via",
+      "toName": "Sacerdote y arzobispo de la Blanca Vía",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "padre-gabriel-cd1d8e",
+      "evidenceArticleTitle": "Padre Gabriel"
+    },
+    {
+      "id": "edge-padre-gabriel-cd1d8e-char-mention-aliado-de-caldo-de-dragon-pariente",
+      "fromId": "padre-gabriel-cd1d8e",
+      "fromName": "Padre Gabriel",
+      "toId": "char-mention-aliado-de-caldo-de-dragon",
+      "toName": "aliado de Caldo de Dragón",
+      "relationType": "pariente",
+      "relationLabel": "Pariente",
+      "isAdoptive": false,
+      "evidenceArticleSlug": "padre-gabriel-cd1d8e",
+      "evidenceArticleTitle": "Padre Gabriel"
+    }
+  ],
+  "families": [
+    {
+      "id": "familia-diaz",
+      "name": "Dinastía Díaz & Linaje Dorado de Draconia",
+      "description": "La gran estirpe que une la sangre dracónica de Auros y Arkadis con los héroes mortales Arlon, Arlem y el príncipe Auros Díaz.",
+      "color": "#f59e0b",
+      "crestIcon": "Flame",
+      "memberIds": [
+        "la-luna-oscura",
+        "luna-diaz",
+        "laila-diaz",
+        "greta-diaz",
+        "greg-diaz",
+        "familia-diaz",
+        "drakaris",
+        "auros-diaz",
+        "arkalon-diaz",
+        "aeliana",
+        "midas-diosa-del-comercio",
+        "arlon-diaz",
+        "char-mention-esposa-de-greg-diaz",
+        "char-mention-auros",
+        "char-mention-arkadis",
+        "char-mention-drakara",
+        "char-mention-arlem-diaz",
+        "char-mention-arkadis-diaz"
+      ]
+    },
+    {
+      "id": "casa-loux",
+      "name": "Casa Loux & Linajes Guerreros",
+      "description": "El clan marcial fundado por Thorin Loux, Pepe Loux, Thorfin, Leonard y sus herederos.",
+      "color": "#ef4444",
+      "crestIcon": "Shield",
+      "memberIds": [
+        "la-casa-loux",
+        "leonard-loux",
+        "kaelgor-loux",
+        "thorin-loux",
+        "thorfin-loux",
+        "pepe-loux",
+        "char-mention-gilda-bravacobre",
+        "char-mention-brynhildr-piedranegra",
+        "char-mention-familia-loux"
+      ]
+    },
+    {
+      "id": "realeza-elfica",
+      "name": "Casa Real Élfica & Linaje Lunar",
+      "description": "La dinastía de los elfos de las estrellas, Varianthel, Elandir, Elaine y Serelith Moonlight.",
+      "color": "#38bdf8",
+      "crestIcon": "Sparkles",
+      "memberIds": [
+        "ivan-del-valle-boreal-326760"
+      ]
+    },
+    {
+      "id": "casa-deez",
+      "name": "Casa Deez & Linajes Arcanos",
+      "description": "Línea de sangre de Druunia Deez, Havrik Deez y Chispo Deez.",
+      "color": "#a855f7",
+      "crestIcon": "Zap",
+      "memberIds": [
+        "havrik-deez",
+        "familia-deez",
+        "druunia-deez",
+        "chispo-deez"
+      ]
+    },
+    {
+      "id": "dioses-y-dragones",
+      "name": "Panteón Cósmico & Dragones Progenitores",
+      "description": "Deidades primordiales de Aeros, Fafnir, Syndragosa, Gildemar, Gorm y los dioses del cosmos.",
+      "color": "#10b981",
+      "crestIcon": "Crown",
+      "memberIds": [
+        "faram-senor-del-sol",
+        "chemos-el-dios-oscuro",
+        "primordiales",
+        "la-blanca-via",
+        "arbol-aureo-mrf9a5jc",
+        "magor",
+        "koryu-no-kame",
+        "freya",
+        "el-loa-tigre",
+        "chemos",
+        "umberlee",
+        "nuitari",
+        "morgion",
+        "marduk",
+        "char-mention-dioses",
+        "char-mention-dioses-nordicos",
+        "char-mention-loas",
+        "char-mention-gorm",
+        "char-mention-fafnir",
+        "char-mention-dioses-babilonicos",
+        "char-mention-aliado-de-caldo-de-dragon"
+      ]
+    },
+    {
+      "id": "otros-linajes",
+      "name": "Otros Linajes, Huérfanos & Caminantes",
+      "description": "Personajes independientes, pistoleros y figuras con lazos familiares singulares o enigmáticos.",
+      "color": "#64748b",
+      "crestIcon": "Users",
+      "memberIds": [
+        "mongraal",
+        "oceiros",
+        "cid",
+        "inigo",
+        "familias-de-herreros-malditos",
+        "smurph-draco",
+        "ludwig",
+        "onan-vindland",
+        "logario",
+        "faustus",
+        "fara",
+        "limeyr",
+        "stariax-mre4wqiy",
+        "eyegore-mrdrh1ob",
+        "la-profecia-viviente",
+        "la-familia-elegida",
+        "kurogame",
+        "kairon",
+        "herald-i-de-moonhaven",
+        "gromock",
+        "fit-fitson",
+        "ferton",
+        "el-baron",
+        "el-senor-de-la-ceniza-bestia-del-apocalipsis",
+        "edacorn",
+        "durnik",
+        "barled",
+        "asmodeo",
+        "thravir-el-loxodon",
+        "stitch",
+        "roxanne",
+        "rey-redcap",
+        "raxxar",
+        "ragnavaldr",
+        "ragnarok",
+        "pythor",
+        "prometeo",
+        "mimir",
+        "mamon",
+        "borroko-65d44d",
+        "el-caballero-del-espejo-95b1cd",
+        "ostrava-c9fdb2",
+        "zamos-vinland-9d7ed1",
+        "garl-vinland-y-la-dama-astraea-ffd99b",
+        "padre-gabriel-cd1d8e",
+        "gran-arana-acorazada-ea7987",
+        "el-caballero-de-la-torre-30a91b",
+        "char-mention-kartus-gestas",
+        "char-mention-ghazghkull-mag-uruk-thraka",
+        "char-mention-humana",
+        "char-mention-padre",
+        "char-mention-madre",
+        "char-mention-gornak",
+        "char-mention-norgra",
+        "char-mention-object-object",
+        "char-mention-padre-de-ferton-desconocido",
+        "char-mention-madre-de-ferton-desaparecida",
+        "char-mention-padre-de-edacorn-fallecido",
+        "char-mention-esmeralizadores",
+        "char-mention-alexxtros",
+        "char-mention-lyrian",
+        "char-mention-consejo-omega",
+        "char-mention-abuela",
+        "char-mention-los-9-infiernos",
+        "char-mention-pecados-capitales",
+        "char-mention-tribu-de-goliats-de-la-gran-nada",
+        "char-mention-bestias-del-apocalipsis",
+        "char-mention-belial",
+        "char-mention-desconocidos",
+        "char-mention-guidemar",
+        "char-mention-midas",
+        "char-mention-eurythia",
+        "char-mention-rey-allant",
+        "char-mention-astraea",
+        "char-mention-sacerdote-y-arzobispo-de-la-blanca-via"
+      ]
+    }
+  ],
+  "lastUpdated": "2026-10-07T05:42:24.425Z",
+  "stats": {
+    "totalCharacters": 128,
+    "withArticleCount": 84,
+    "mentionedOnlyCount": 44,
+    "relationsCount": 81,
+    "familiesCount": 6
+  }
+}

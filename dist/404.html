@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Dragopedia</title>
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      // MIT License
+      // https://github.com/rafgraph/spa-github-pages
+      var l = window.location;
+      var isGitHubProject = l.hostname.endsWith('github.io') && l.pathname.split('/').filter(Boolean).length > 0;
+      var pathSegmentsToKeep = isGitHubProject ? 1 : 0;
+
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        (pathSegmentsToKeep > 0 ? l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') : '') + '/?/' +
+        l.pathname.split('/').slice(1 + pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
+    </script>
+  </head>
+  <body>
+  </body>
+</html>

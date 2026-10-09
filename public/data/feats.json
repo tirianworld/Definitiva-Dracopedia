@@ -1,0 +1,57 @@
+[
+  {
+    "id": "gran-maestro-de-las-armas",
+    "name": "Gran Maestro de las Armas",
+    "nameEn": "Great Weapon Master",
+    "category": "Combate",
+    "bg3IconUrl": "/images/cloud/Great_Weapon_Master_Bonus_Atta_02a2a679a3.webp",
+    "bg3IconName": "Great Weapon Master Bonus Attack Icon.webp",
+    "prerequisite": "Fuerza 13 o superior",
+    "hasPrerequisite": true,
+    "isHalfFeat": false,
+    "description": "Has aprendido a usar el peso de tu arma en tu favor.",
+    "benefits": [
+      "Ataque adicional tras crítico o baja",
+      "-5 al ataque para sumar +10 al daño"
+    ],
+    "source": "Manual del Jugador (PHB)",
+    "color": "#ef4444",
+    "updatedAt": "2026-09-27T08:59:58.573Z"
+  },
+  {
+    "id": "matademonios-asesino-de-magos",
+    "name": "Asesino de Magos",
+    "nameEn": "Mage Slayer",
+    "category": "Combate",
+    "categoryEn": "Combat",
+    "prerequisite": "Ninguno",
+    "hasPrerequisite": false,
+    "isHalfFeat": false,
+    "color": "#ef4444",
+    "bg3IconUrl": "/images/uploads/matademonios-asesino-de-magos-1790499627120.png",
+    "source": "Manual del Jugador (PHB)",
+    "recommendedClasses": [
+      "Pícaro",
+      "Guerrero",
+      "Monje",
+      "Bárbaro"
+    ],
+    "tags": [
+      "Antimagia",
+      "Reacción contra conjuros",
+      "Desventaja en concentración",
+      "Ventaja en salvación"
+    ],
+    "benefits": [
+      "Ataque de represalia: Cuando una criatura a 1,5 metros de ti lanza un conjuro, puedes usar tu reacción para realizar un ataque cuerpo a cuerpo con un arma contra esa criatura.",
+      "Ruptura de concentración: Cuando infliges daño a una criatura que se está concentrando en un conjuro, esa criatura tiene desventaja en la tirada de salvación para mantener la concentración.",
+      "Escudo mental: Tienes ventaja en las tiradas de salvación contra conjuros lanzados por criaturas situadas a 1,5 metros de ti."
+    ],
+    "description": "Has desarrollado técnicas especializadas para abatir a hechiceros y lanzadores de conjuros:\n- Cuando una criatura situada a **1,5 metros de ti lanza un conjuro**, puedes usar tu **reacción** para realizar un ataque cuerpo a cuerpo con un arma contra ella.\n- Cuando dañas a una criatura que mantiene la concentración en un conjuro, dicha criatura sufre **desventaja en la tirada de salvación** para mantener la concentración.\n- Tienes **ventaja en las tiradas de salvación** contra conjuros lanzados por criaturas que se encuentren a 1,5 metros de ti.",
+    "iconUrl": "/images/uploads/matademonios-asesino-de-magos-1790499627120.png",
+    "bg3IconName": "matademonios-asesino-de-magos-1790499627120.png",
+    "isEdited": true,
+    "updatedAt": "2026-09-27T09:00:29.232Z",
+    "image_url": "/images/uploads/matademonios-asesino-de-magos-1790500278554.png"
+  }
+]

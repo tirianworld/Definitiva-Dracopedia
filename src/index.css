@@ -1,0 +1,463 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-heading: "Cinzel", serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+}
+
+:root {
+  --font-heading: "Cinzel", serif;
+  --font-body: "Inter", sans-serif;
+  --background: 220 20% 7%;
+  --foreground: 40 20% 92%;
+  --card: 220 18% 10%;
+  --card-foreground: 40 20% 92%;
+  --popover: 220 18% 10%;
+  --popover-foreground: 40 20% 92%;
+  --primary: 179 89% 82%;
+  --primary-foreground: 220 20% 7%;
+  --secondary: 220 15% 15%;
+  --secondary-foreground: 40 20% 85%;
+  --muted: 220 15% 15%;
+  --muted-foreground: 220 10% 55%;
+  --accent: 179 89% 82%;
+  --accent-foreground: 220 20% 7%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 220 15% 18%;
+  --input: 220 15% 18%;
+  --ring: 179 89% 82%;
+  --radius: .5rem;
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-family: var(--font-body);
+  overflow-x: hidden;
+}
+
+/* Custom Quill wiki content styles */
+.wiki-content {
+  line-height: 1.75;
+  font-size: 0.925rem;
+}
+
+.wiki-content h2 {
+  font-family: var(--font-heading);
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  border-b: 1px solid hsl(var(--border));
+  padding-bottom: 0.25rem;
+  color: hsl(var(--foreground));
+}
+
+.wiki-content h3 {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: hsl(var(--foreground));
+}
+
+.wiki-content p {
+  margin-bottom: 1rem;
+  color: hsl(var(--foreground) / 0.85);
+}
+
+.wiki-content strong {
+  color: hsl(var(--foreground));
+  font-weight: 600;
+}
+
+.wiki-content ul, .wiki-content ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.wiki-content ul {
+  list-style-type: disc;
+}
+
+.wiki-content ol {
+  list-style-type: decimal;
+}
+
+.wiki-content li {
+  margin-bottom: 0.25rem;
+  color: hsl(var(--foreground) / 0.85);
+}
+
+.wiki-content blockquote {
+  border-left: 3px solid hsl(var(--primary));
+  padding-left: 1rem;
+  font-style: italic;
+  color: hsl(var(--muted-foreground));
+  margin: 1.5rem 0;
+}
+
+.wiki-content img {
+  cursor: pointer;
+  border-radius: 0.5rem;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  max-width: 100%;
+  height: auto;
+}
+.wiki-content img:hover {
+  opacity: 0.92;
+  box-shadow: 0 0 15px rgba(6, 182, 212, 0.25);
+}
+
+.wiki-content a {
+  color: hsl(var(--primary));
+  text-decoration: underline;
+}
+
+.wiki-content a:hover {
+  color: hsl(var(--primary) / 0.8);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--secondary));
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--border));
+}
+
+/* Custom Soundwave Animations */
+@keyframes bounceWave {
+  0%, 100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
+.animate-soundwave-1 {
+  animation: bounceWave 0.8s ease-in-out infinite;
+  transform-origin: bottom;
+}
+.animate-soundwave-2 {
+  animation: bounceWave 0.5s ease-in-out infinite;
+  transform-origin: bottom;
+}
+.animate-soundwave-3 {
+  animation: bounceWave 0.7s ease-in-out infinite;
+  transform-origin: bottom;
+}
+.animate-soundwave-4 {
+  animation: bounceWave 0.6s ease-in-out infinite;
+  transform-origin: bottom;
+}
+
+/* =========================================================================
+   Celestial Background & Cosmos World Graph Animations
+   ========================================================================= */
+@keyframes celestialTwinkle {
+  0%, 100% {
+    opacity: var(--twinkle-min, 0.2);
+    transform: scale(0.85);
+  }
+  50% {
+    opacity: var(--twinkle-max, 0.95);
+    transform: scale(1.3);
+  }
+}
+
+@keyframes celestialAuroraDrift {
+  0% {
+    transform: scale(1) translate(0%, 0%) rotate(0deg);
+    opacity: 0.35;
+  }
+  33% {
+    transform: scale(1.12) translate(3%, -2%) rotate(2deg);
+    opacity: 0.55;
+  }
+  66% {
+    transform: scale(0.94) translate(-2%, 3%) rotate(-2deg);
+    opacity: 0.42;
+  }
+  100% {
+    transform: scale(1) translate(0%, 0%) rotate(0deg);
+    opacity: 0.35;
+  }
+}
+
+@keyframes celestialDustDrift {
+  0% {
+    transform: translateY(0px) translateX(0px);
+  }
+  50% {
+    transform: translateY(-25px) translateX(15px);
+  }
+  100% {
+    transform: translateY(0px) translateX(0px);
+  }
+}
+
+@keyframes astrolabeSlowSpin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes shootingStarStreak {
+  0% {
+    transform: translate(0, 0) rotate(var(--angle, 35deg)) scaleX(0.1);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+    transform: translate(40px, 28px) rotate(var(--angle, 35deg)) scaleX(1);
+  }
+  75% {
+    opacity: 0.9;
+  }
+  100% {
+    transform: translate(450px, 315px) rotate(var(--angle, 35deg)) scaleX(0.2);
+    opacity: 0;
+  }
+}
+
+.animate-aurora-drift {
+  animation: celestialAuroraDrift 24s ease-in-out infinite;
+}
+
+.animate-dust-drift {
+  animation: celestialDustDrift 16s ease-in-out infinite;
+}
+
+.animate-astrolabe-spin {
+  animation: astrolabeSlowSpin 240s linear infinite;
+  transform-origin: 0 0;
+}
+
+/* =========================================================================
+   Embedded Maps - Auto Zoom-in to eliminate black letterbox borders
+   ========================================================================= */
+.map-embed-viewport {
+  overflow: hidden !important;
+  position: relative !important;
+}
+
+.map-embed-viewport iframe,
+.wiki-content iframe,
+.cartocraft-embed-container iframe,
+.cartocraft-map-frame {
+  transform: scale(1.28);
+  transform-origin: center center;
+  width: 100% !important;
+  height: 100% !important;
+  border: 0 !important;
+  display: block;
+}
+
+.wiki-content p:has(> iframe),
+.wiki-content div:has(> iframe),
+.cartocraft-embed-container {
+  overflow: hidden !important;
+  position: relative !important;
+  border-radius: 0.75rem !important;
+}
+
+.wiki-content p:has(> iframe) {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  height: 520px;
+  max-height: 80vh;
+  background-color: #06080e;
+  border: 1px solid rgba(200, 169, 110, 0.3);
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.6);
+}
+
+/* =========================================================================
+   Print / Manuscript Sheet Styles (Tabletop RPG & Archive Export)
+   ========================================================================= */
+@media print {
+  body {
+    background-color: #ffffff !important;
+    color: #1a1a1a !important;
+    font-family: serif !important;
+  }
+
+  header, aside, .reading-history-bar, .no-print, button, .visual-editor-hud, #tarot-chatbot-root, .map-embed-viewport, .scribe-radio-player {
+    display: none !important;
+  }
+
+  .wiki-content {
+    color: #111111 !important;
+    font-size: 11pt !important;
+    line-height: 1.6 !important;
+  }
+
+  .wiki-content h2, .wiki-content h3, .wiki-content h4 {
+    color: #1a1a1a !important;
+    border-bottom: 1px solid #ccc !important;
+    page-break-after: avoid;
+  }
+
+  .wiki-content a {
+    color: #000000 !important;
+    text-decoration: underline !important;
+  }
+
+  .wiki-content blockquote {
+    border-left: 3px solid #666 !important;
+    color: #444 !important;
+    background: #fdfdfd !important;
+  }
+
+  .print-manuscript-header {
+    display: block !important;
+    border-bottom: 2px solid #8b7355;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+  }
+
+  .print-page-break {
+    page-break-before: always;
+  }
+}
+
+/* =========================================================================
+   Primordial Magic Graph - Celestial & Mana Pulse Animations
+   ========================================================================= */
+
+@keyframes celestial-spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes celestial-spin-reverse {
+  from { transform: rotate(360deg); }
+  to { transform: rotate(0deg); }
+}
+
+@keyframes celestial-spin-medium {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes mana-flow {
+  from { stroke-dashoffset: 60; }
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes mana-flow-reverse {
+  from { stroke-dashoffset: 0; }
+  to { stroke-dashoffset: 60; }
+}
+
+@keyframes core-pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.92;
+  }
+  50% {
+    transform: scale(1.08);
+    opacity: 1;
+  }
+}
+
+@keyframes pillar-ping-wave {
+  0% {
+    r: 28px;
+    opacity: 0.8;
+    stroke-width: 2.5px;
+  }
+  70% {
+    opacity: 0.3;
+  }
+  100% {
+    r: 85px;
+    opacity: 0;
+    stroke-width: 0.5px;
+  }
+}
+
+@keyframes spark-shimmer {
+  0%, 100% {
+    opacity: 0.25;
+    transform: scale(0.85);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.3);
+  }
+}
+
+.animate-celestial-spin {
+  animation: celestial-spin-slow 90s linear infinite;
+  transform-origin: 0 0;
+}
+
+.animate-celestial-reverse {
+  animation: celestial-spin-reverse 130s linear infinite;
+  transform-origin: 0 0;
+}
+
+.animate-celestial-medium {
+  animation: celestial-spin-slow 40s linear infinite;
+  transform-origin: 0 0;
+}
+
+.animate-mana-flow {
+  animation: mana-flow 2.4s linear infinite;
+}
+
+.animate-mana-flow-fast {
+  animation: mana-flow 1.2s linear infinite;
+}
+
+.animate-core-pulse {
+  animation: core-pulse 4s ease-in-out infinite;
+  transform-origin: 0 0;
+}
+
+.animate-pillar-ping {
+  animation: pillar-ping-wave 4s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+
+.animate-spark-shimmer {
+  animation: spark-shimmer 3s ease-in-out infinite;
+}
+
+

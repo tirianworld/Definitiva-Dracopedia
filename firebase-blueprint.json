@@ -1,0 +1,71 @@
+{
+  "entities": {
+    "WikiArticle": {
+      "title": "WikiArticle",
+      "description": "An article in the Dragopedia wiki",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "slug": { "type": "string" },
+        "summary": { "type": "string" },
+        "content": { "type": "string" },
+        "category": { "type": "string" },
+        "image_url": { "type": "string" },
+        "is_featured": { "type": "boolean" },
+        "spells": { "type": "array" },
+        "spell_images": { "type": "object" },
+        "created_date": { "type": "string" },
+        "updated_date": { "type": "string" }
+      },
+      "required": ["id", "title", "slug", "content", "category"]
+    },
+    "WikiCategory": {
+      "title": "WikiCategory",
+      "description": "A category for grouping articles in the wiki",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "slug": { "type": "string" },
+        "description": { "type": "string" },
+        "icon": { "type": "string" },
+        "color": { "type": "string" }
+      },
+      "required": ["id", "name", "slug"]
+    },
+    "GenealogyTree": {
+      "title": "GenealogyTree",
+      "description": "Global persistent family tree data and relationships",
+      "type": "object",
+      "properties": {
+        "tree": {
+          "type": "object",
+          "properties": {
+            "nodes": { "type": "array" },
+            "edges": { "type": "array" },
+            "families": { "type": "array" },
+            "lastUpdated": { "type": "string" }
+          },
+          "required": ["nodes", "edges"]
+        },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["tree"]
+    }
+  },
+  "firestore": {
+    "articles/{articleId}": {
+      "schema": "WikiArticle",
+      "description": "Wiki articles collection"
+    },
+    "categories/{categoryId}": {
+      "schema": "WikiCategory",
+      "description": "Wiki categories collection"
+    },
+    "app_settings/{settingId}": {
+      "schema": "GenealogyTree",
+      "description": "Global application configuration and persistent genealogy tree"
+    }
+  }
+}

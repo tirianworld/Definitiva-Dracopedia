@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bendicion-de-astraea",
+    "name": "Bendición de Astraea",
+    "nameEn": "Astraea's Blessing",
+    "level": 5,
+    "school": "Evocación",
+    "schoolEn": "Evocación",
+    "primordialMagic": "Magia Divina",
+    "origin": "Celestial",
+    "castingTime": "1 acción",
+    "range": "Personal (radio de 9 m / 30 pies)",
+    "components": {
+      "verbal": true,
+      "somatic": true,
+      "material": false
+    },
+    "duration": "Instantánea",
+    "concentration": false,
+    "ritual": false,
+    "classes": [
+      "Clérigo",
+      "Paladín"
+    ],
+    "damageType": "Curación",
+    "icon": "bendicion_astraea",
+    "iconUrl": "/images/uploads/bendicion-de-astraea-1790345785345.png",
+    "bg3IconUrl": "/images/uploads/bendicion-de-astraea-1790345785345.png",
+    "bg3IconName": "icono bendicion de la dama astraea.png",
+    "color": "#facc15",
+    "version": "ambas",
+    "source": "Dragopedia / Grimorio Sagrado",
+    "description": "A quien le llega esta bendición es capaz de escuchar la voz de una dama que una vez se consideró santa:\n\n*\"Venid a mi los enfermos, pues es a vosotros a los que la vía busca\".*\n\nUna lágrima sagrada de pura luz celestial desciende e irradia bendición sanadora. Este hechizo cura **2d20** puntos de golpe a todos los aliados situados en un radio de 30 pies (9 metros) alrededor del lanzador (solo aliados).\n\n**Propiedad sagrada especial:** Este conjuro dispone de **2 usos**, requiriendo de un **Descanso Largo** para recargarse por completo.",
+    "isCustom": true,
+    "isEdited": true,
+    "updatedAt": "2026-09-25T14:16:25.341Z"
+  }
+]

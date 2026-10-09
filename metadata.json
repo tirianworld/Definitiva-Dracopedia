@@ -1,0 +1,6 @@
+{
+  "name": "Dragopedia",
+  "description": "A comprehensive community-driven encyclopedia for the Caldo de Dragón universe, featuring detailed lore, characters, locations, and magical elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
