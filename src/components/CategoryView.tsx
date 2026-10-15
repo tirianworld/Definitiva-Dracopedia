@@ -23,6 +23,7 @@ import { AscendidosSilhouettesBanner } from "./AscendidosSilhouettesBanner";
 import { AntiguosSilhouettesBanner } from "./AntiguosSilhouettesBanner";
 import { JugadoresBanner } from "./JugadoresBanner";
 import { PortadoresBanner } from "./PortadoresBanner";
+import { LeyendasSilhouettesBanner } from "./LeyendasSilhouettesBanner";
 import { EditableBannerWrapper } from "./EditableBannerWrapper";
 
 export function CategoryView() {
@@ -60,6 +61,7 @@ export function CategoryView() {
   const isAntiguos = currentCategory?.slug === "antiguos" || currentCategory?.slug === "antiguo" || currentCategory?.slug === "los-antiguos" || currentCategory?.name?.toLowerCase() === "antiguos" || currentCategory?.name?.toLowerCase() === "antiguo" || currentCategory?.name?.toLowerCase() === "los antiguos" || slug?.toLowerCase() === "antiguos" || slug?.toLowerCase() === "antiguo" || slug?.toLowerCase() === "los-antiguos";
   const isJugadores = currentCategory?.slug === "jugadores" || currentCategory?.slug === "jugador" || currentCategory?.name?.toLowerCase() === "jugadores" || currentCategory?.name?.toLowerCase() === "jugador" || slug?.toLowerCase() === "jugadores" || slug?.toLowerCase() === "jugador";
   const isPortadores = currentCategory?.slug === "portadores-de-marca" || currentCategory?.slug === "portadores" || currentCategory?.name?.toLowerCase().includes("portadores de marca") || slug?.toLowerCase() === "portadores-de-marca";
+  const isLeyendas = currentCategory?.slug === "leyendas" || currentCategory?.slug === "leyenda" || currentCategory?.name?.toLowerCase() === "leyendas" || currentCategory?.name?.toLowerCase() === "leyenda" || slug?.toLowerCase() === "leyendas" || slug?.toLowerCase() === "leyenda";
   const bannerKey = isPersonajes
     ? "personajes"
     : isJugadores
@@ -74,11 +76,13 @@ export function CategoryView() {
               ? "ascendidos"
               : isAntiguos
                 ? "antiguos"
-                : isPortadores
-                  ? "portadores_de_marca"
-                  : (currentCategory?.slug || slug || "categoria").toLowerCase().replace(/[^a-z0-9_-]/g, "_");
+                : isLeyendas
+                  ? "leyendas"
+                  : isPortadores
+                    ? "portadores_de_marca"
+                    : (currentCategory?.slug || slug || "categoria").toLowerCase().replace(/[^a-z0-9_-]/g, "_");
   const hasSavedCustomBanner = Boolean(getText(`banner.image.${bannerKey}`, "").trim());
-  const hasCustomBanner = isPersonajes || isJugadores || isLugares || isDragones || isPrimordiales || isAscendidos || isAntiguos || isPortadores || hasSavedCustomBanner || isVisualEditMode;
+  const hasCustomBanner = isPersonajes || isJugadores || isLugares || isDragones || isPrimordiales || isAscendidos || isAntiguos || isPortadores || isLeyendas || hasSavedCustomBanner || isVisualEditMode;
 
   // Detección de Subcategorías directas (solo 1 nivel debajo de la categoría actual)
   const subcategories = useMemo(() => {
@@ -1398,6 +1402,11 @@ export function CategoryView() {
             ) : isPortadores ? (
               <PortadoresBanner
                 className="w-full h-full"
+              />
+            ) : isLeyendas ? (
+              <LeyendasSilhouettesBanner
+                className="w-full h-full"
+                color="#232e33"
               />
             ) : undefined}
           </EditableBannerWrapper>
